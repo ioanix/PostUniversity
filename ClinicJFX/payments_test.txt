@@ -1,0 +1,4 @@
+{"patientId":1,"doctorId":1,"patientCardNumber":1234,"date":"13.02.2020","time":"13","price":50.0,"id":0}
+{"patientId":0,"doctorId":0,"patientCardNumber":1287,"date":"14.02.2020","time":"15","price":50.0,"id":1}
+{"patientId":0,"doctorId":2,"patientCardNumber":1222,"date":"14.02.2020","time":"14","price":50.0,"id":2}
+{"patientId":1,"doctorId":2,"patientCardNumber":5555,"date":"12.02.2020","time":"15","price":50.0,"id":3}

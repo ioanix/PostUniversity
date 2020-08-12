@@ -1,0 +1,6 @@
+{"patientFirstName":"Mihai","patientLastName":"Popa","patientAge":23,"consultationReason":"consultation","phoneNumber":"01234","id":0}
+{"patientFirstName":"Alexa","patientLastName":"Mure","patientAge":25,"consultationReason":"consultation","phoneNumber":"01345","id":1}
+{"patientFirstName":"Crist","patientLastName":"Mold","patientAge":65,"consultationReason":"prescriptions","phoneNumber":"01456","id":2}
+{"patientFirstName":"Maria","patientLastName":"Brot","patientAge":22,"consultationReason":"consultation","phoneNumber":"01789","id":3}
+{"patientFirstName":"Mirce","patientLastName":"Neam","patientAge":56,"consultationReason":"treatment","phoneNumber":"01256","id":4}
+{"patientFirstName":"Andra","patientLastName":"Miro","patientAge":35,"consultationReason":"consultation","phoneNumber":"01896","id":5}

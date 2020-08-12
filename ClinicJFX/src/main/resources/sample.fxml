@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.collections.FXCollections?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.control.cell.*?>
+<?import javafx.scene.layout.*?>
+<?import java.lang.String?>
+<GridPane fx:id="mainPanel" alignment="center" hgap="10" prefHeight="616.0" prefWidth="798.0" vgap="10" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+
+    <HBox GridPane.rowIndex="3">
+        <VBox>
+            <TableView fx:id="tblDoctors" editable="true" prefHeight="600.0" prefWidth="460.0">
+                <columns>
+                    <TableColumn fx:id="colIdDoctor" prefWidth="50.0" text="Id">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="id" />
+                        </cellValueFactory>
+                    </TableColumn>
+                    <TableColumn fx:id="colDoctorFirstName" minWidth="72.0" prefWidth="150.0" text="First Name">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="firstName" />
+                        </cellValueFactory>
+                    </TableColumn>
+                    <TableColumn fx:id="colDoctorLastName" prefWidth="200.0" text="Last Name">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="lastName" />
+                        </cellValueFactory>
+                    </TableColumn>
+                    <TableColumn fx:id="colDoctorAge" prefWidth="50.0" text="Age">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="age" />
+                        </cellValueFactory>
+                    </TableColumn>
+                </columns>
+            <columnResizePolicy>
+               <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+            </columnResizePolicy>
+            </TableView>
+
+            <TextField fx:id="txtFirstName" promptText="First name" />
+            <TextField fx:id="txtLastName" promptText="Last name" />
+            <TextField fx:id="txtAge" promptText="Age" />
+
+            <TextField fx:id="txtSearch" promptText="Search input" />
+
+            <Button fx:id="btnAddDoctor" onAction="#btnAddDoctorClick" text="Add Doctor" />
+            <Button fx:id="btnShowAllDoctors" onAction="#btnShowAllDoctorsClick" text="Show all doctors" />
+            <Button fx:id="btnEditDoctor" onAction="#btnEditDoctorClick" text="Edit" />
+            <Button fx:id="btnSearch" onAction="#btnSearchClick" text="Search" />
+            <Button fx:id="btnDelete" onAction="#btnDeleteDoctorClick" text="Delete" />
+            <Button fx:id="btnUndo" onAction="#btnUndoClick" text="Undo" />
+            <Button fx:id="btnPayments" onAction="#btnShowPayments" text="Payments" />
+        </VBox>
+
+        <VBox>
+            <TableView fx:id="tblPatients" editable="true" prefHeight="600.0" prefWidth="750.0">
+                <columns>
+                    <TableColumn fx:id="colIdPatient" prefWidth="50.0" text="Id">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="id" />
+                        </cellValueFactory>
+                    </TableColumn>
+                    <TableColumn fx:id="colPatientFirstName" minWidth="90.0" prefWidth="100.0" text="First Name">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="patientFirstName" />
+                        </cellValueFactory>
+                    </TableColumn>
+                    <TableColumn fx:id="colPatientLastName" minWidth="0.0" prefWidth="130.0" text="Last Name">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="patientLastName" />
+                        </cellValueFactory>
+                    </TableColumn>
+                    <TableColumn fx:id="colPatientAge" prefWidth="70.0" text="Age">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="patientAge" />
+                        </cellValueFactory>
+                    </TableColumn>
+                    <TableColumn fx:id="colConsultationReason" prefWidth="200.0" text="Consultation Reason">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="consultationReason" />
+                        </cellValueFactory>
+                    </TableColumn>
+                    <TableColumn fx:id="colPhoneNumber" prefWidth="200.0" text="Phone Number" >
+                        <cellValueFactory>
+                            <PropertyValueFactory property="phoneNumber" />
+                        </cellValueFactory>
+                    </TableColumn>
+                </columns>
+            </TableView>
+
+            <TextField fx:id="txtPatientFirstName" promptText="First name" />
+            <TextField fx:id="txtPatientLastName" promptText="Last name" />
+            <TextField fx:id="txtPatientAge" promptText="Age" />
+            <ComboBox fx:id="reasonComboBox">
+                <items>
+                    <FXCollections fx:factory="observableArrayList">
+                        <String fx:value="consultation"/>
+                        <String fx:value="prescriptions"/>
+                        <String fx:value="treatment"/>
+                    </FXCollections>
+                </items>
+                <value>
+                    <String fx:value="consultation"/>
+                </value>
+            </ComboBox>
+            <TextField fx:id="txtPhoneNumber" promptText="Phone Number" />
+
+            <TextField fx:id="txtPatientSearch" promptText="Search input" />
+
+            <Button fx:id="btnAddPatient" onAction="#btnAddPatientClick" text="Add Patient" />
+            <Button fx:id="btnShowAllPatients" onAction="#btnShowAllPatientsClick" text="Show all patients" />
+            <Button fx:id="btnEditPatient" onAction="#btnEditPatientClick" text="Edit" />
+            <Button fx:id="btnSearchPatient" onAction="#btnSearchPatientClick" text="Search" />
+            <Button fx:id="btnDeletePatient" onAction="#btnDeletePatientClick" text="Delete" />
+            <Button fx:id="btnShowPatientsBaseOnAge" onAction="#btnShowPatientsBasedOnAgeClick" text="Show patients ordered by age" />
+            <Button fx:id="btnUndoPatient" onAction="#btnUndoPatientClick" text="Undo" />
+
+        </VBox>
+    </HBox>
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+   </rowConstraints>
+</GridPane>

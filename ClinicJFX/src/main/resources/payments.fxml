@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.cell.PropertyValueFactory?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+
+<GridPane prefHeight="525.0" prefWidth="935.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.PaymentController">
+
+    <HBox GridPane.rowIndex="2">
+        <VBox prefWidth="650.0" GridPane.rowIndex="1">
+            <TableView fx:id="tblPayments" editable="true" prefHeight="500.0" prefWidth="445.0">
+                <columns>
+                    <TableColumn fx:id="idColumn" prefWidth="50.0" text="Id">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="id" />
+                        </cellValueFactory>
+                    </TableColumn>
+                    <TableColumn fx:id="patientIdColumn" prefWidth="75.0" text="Patient_Id">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="patientId" />
+                        </cellValueFactory>
+                    </TableColumn>
+                    <TableColumn fx:id="doctorIdColumn" minWidth="62.0" prefWidth="75.0" text="Doctor_Id">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="doctorId" />
+                        </cellValueFactory>
+                    </TableColumn>
+                    <TableColumn fx:id="cardNumberColumn" minWidth="0.0" prefWidth="127.0" text="Card Number">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="patientCardNumber" />
+                        </cellValueFactory>
+                    </TableColumn>
+                    <TableColumn fx:id="colDate" prefWidth="113.0" text="Date">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="date" />
+                        </cellValueFactory>
+                    </TableColumn>
+                    <TableColumn fx:id="colTime" minWidth="0.0" prefWidth="79.0" text="Time">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="time" />
+                        </cellValueFactory>
+                    </TableColumn>
+                    <TableColumn fx:id="colPrice" prefWidth="110.0" text="Amount paid">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="price" />
+                        </cellValueFactory>
+                    </TableColumn>
+                </columns>
+            </TableView>
+
+            <ComboBox fx:id="patientComboBox" promptText="Patients" />
+            <ComboBox fx:id="doctorComboBox" promptText="Doctors" />
+            <TextField fx:id="txtCardNumber" promptText="Card Number" />
+            <TextField fx:id="txtDate" promptText="Date" />
+            <TextField fx:id="txtTime" promptText="Time" />
+            <TextField fx:id="txtAmountPaid" promptText="Amount Paid" />
+
+            <TextField fx:id="txtPaymentSearch" promptText="Search input" />
+
+            <TextField fx:id="txtStart" promptText="Start date" />
+            <TextField fx:id="txtEnd" promptText="End date" />
+
+            <Button fx:id="btnAddPayment" onAction="#btnAddPaymentClick" text="Add Payment" />
+            <Button fx:id="btnShowAllPayments" onAction="#btnShowAllPaymentsClick" text="Show all payments" />
+            <Button fx:id="btnDeletePayment" onAction="#btnDeletePaymentClick" text="Delete Payment" />
+            <Button fx:id="btnShowPaymentsInARangeOfDays" onAction="#btnShowPaymentsInARangeOfDays" text="Show payments in a range of days" />
+            <Button fx:id="btnDeletePaymentsInARangeOfDays" onAction="#btnDeletePaymentsInARangeOfDays" text="Delete payments in a range of days" />
+            <Button fx:id="btnUndoPayment" onAction="#btnUndoPaymentClick" text="Undo" />
+        </VBox>
+
+        <VBox prefHeight="506.0" prefWidth="705.0">
+            <TableView fx:id="tblPatientsForDoctor" prefHeight="400.0" prefWidth="524.0">
+                <columns>
+                    <TableColumn fx:id="idDoctorColumn" prefWidth="50.0" text="Id">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="doctorId" />
+                        </cellValueFactory>
+                    </TableColumn>
+                    <TableColumn fx:id="doctorFirstNameColumn" prefWidth="140.0" text="Doctor's first name">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="doctorFirstName" />
+                        </cellValueFactory>
+                    </TableColumn>
+                    <TableColumn fx:id="doctorLastNameColumn" minWidth="18.0" prefWidth="139.0" text="Doctor's last name">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="doctorLastName" />
+                        </cellValueFactory>
+                    </TableColumn>
+                    <TableColumn fx:id="numberOfPatientsColumn" minWidth="0.0" prefWidth="177.0" text="Total number of patients">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="numberOfPatients" />
+                        </cellValueFactory>
+                    </TableColumn>
+                    <TableColumn fx:id="colTotalTime" prefWidth="95.0" text="Total time">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="time" />
+                        </cellValueFactory>
+                    </TableColumn>
+                    <TableColumn fx:id="colTotalPrice" minWidth="0.0" prefWidth="100.0" text="Total price">
+                        <cellValueFactory>
+                            <PropertyValueFactory property="price" />
+                        </cellValueFactory>
+                    </TableColumn>
+                </columns>
+            </TableView>
+
+            <Label style="-fx-font-weight: bold" text="Statistics" />
+
+        </VBox>
+        <Label />
+
+    </HBox>
+    <Label />
+   <Label />
+   <Label GridPane.rowIndex="1" />
+    <columnConstraints>
+        <ColumnConstraints />
+    </columnConstraints>
+    <rowConstraints>
+        <RowConstraints />
+        <RowConstraints />
+      <RowConstraints />
+    </rowConstraints>
+</GridPane>
