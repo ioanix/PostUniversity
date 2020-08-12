@@ -4,6 +4,7 @@
 
 1. Data Structures and Algorithms 
 - coding frequency project
+- BST project
 
 2. OOP 
 - ClinicJFX
