@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bikeshop>
+    <bike bikeType="citybike">
+        <id>1</id>
+        <name>bike1</name>
+        <price>2500.00</price>
+    </bike>
+    <bike bikeType="mountainbike">
+        <id>2</id>
+        <name>bike2</name>
+        <price>3500.00</price>
+    </bike>
+    <bike bikeType="citybike">
+        <id>3</id>
+        <name>bike3</name>
+        <price>1200.00</price>
+    </bike>
+    <bike bikeType="electricbike">
+        <id>4</id>
+        <name>bike4</name>
+        <price>8800.00</price>
+    </bike>
+    <bike bikeType="CityBike">
+        <id>5</id>
+        <name>bike5</name>
+        <price>1350.0</price>
+    </bike>
+</bikeshop>

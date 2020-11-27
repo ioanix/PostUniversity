@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bikeShop>
+    <customer city="Cluj-Napoca">
+        <id>1</id>
+        <firstName>firstName1</firstName>
+        <lastName>lastName1</lastName>
+        <phone>1789011133</phone>
+        <street>Florilor</street>
+        <number>13A</number>
+    </customer>
+    <customer city="Cluj-Napoca">
+        <id>2</id>
+        <firstName>firstName2</firstName>
+        <lastName>lastName2</lastName>
+        <phone>1789011443</phone>
+        <street>Florilor</street>
+        <number>10A</number>
+    </customer>
+    <customer city="Brasov">
+        <id>3</id>
+        <firstName>firstName3</firstName>
+        <lastName>lastName3</lastName>
+        <phone>1783331133</phone>
+        <street>Florilor</street>
+        <number>11A</number>
+    </customer>
+    <customer city="Sibiu">
+        <id>4</id>
+        <firstName>firstName4</firstName>
+        <lastName>lastName4</lastName>
+        <phone>8333556677</phone>
+        <street>Plopilor</street>
+        <number>10</number>
+    </customer>
+</bikeShop>
