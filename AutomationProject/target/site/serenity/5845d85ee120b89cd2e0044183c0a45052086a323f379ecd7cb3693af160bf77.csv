@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search by keyword story","Searching by keyword banana should display the corresponding article","FAILURE","2020-11-14T12:00:23.493444+02:00[Europe/Bucharest]","0.0","12.32"
+"Search by keyword story","Searching by ambiguious keyword should display the disambiguation page","PENDING","2020-11-14T12:00:36.224325+02:00[Europe/Bucharest]","0.0","0.21"
+"Search by keyword story","Searching by keyword apple should display the corresponding article","SUCCESS","2020-11-14T12:00:36.597587+02:00[Europe/Bucharest]","0.0","5.05"
+"Search by keyword story","Searching by keyword banana should display the corresponding article","SUCCESS","2020-11-16T13:10:35.274524+02:00[Europe/Bucharest]","0.0","8.84"
+"Search by keyword story","Searching by ambiguious keyword should display the disambiguation page","PENDING","2020-11-16T13:10:44.471941+02:00[Europe/Bucharest]","0.0","0.15"
+"Search by keyword story","Searching by keyword apple should display the corresponding article","ERROR","2020-11-16T13:18:39.284238+02:00[Europe/Bucharest]","0.0","8.22"

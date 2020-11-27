@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: lab6.features.search.BooksterStory
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 54.861 s <<< FAILURE! - in lab6.features.search.BooksterStory
+non_valid_login(lab6.features.search.BooksterStory)  Time elapsed: 34.107 s  <<< ERROR!
+java.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
+	at lab6.features.search.BooksterStory.non_valid_login(BooksterStory.java:45)
+
+add_a_book_to_library(lab6.features.search.BooksterStory)  Time elapsed: 5.724 s  <<< ERROR!
+java.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
+	at lab6.features.search.BooksterStory.add_a_book_to_library(BooksterStory.java:73)
+
+go_to_home_page_and_login(lab6.features.search.BooksterStory)  Time elapsed: 5.341 s  <<< ERROR!
+java.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
+	at lab6.features.search.BooksterStory.go_to_home_page_and_login(BooksterStory.java:33)
+
+add_a_book_to_wishlist(lab6.features.search.BooksterStory)  Time elapsed: 5.242 s  <<< ERROR!
+java.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
+	at lab6.features.search.BooksterStory.add_a_book_to_wishlist(BooksterStory.java:57)
+

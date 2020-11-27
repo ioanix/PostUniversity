@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="lab6.features.search.BooksterStory" skipped="0" tests="3" time="14.79" timestamp="2020-11-16 02:59:08"><testcase classname="lab6.features.search.BooksterStory" name="Enter account"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled
+lab6.pages.BooksterPage.enterAccount(BooksterPage.java:28)
+lab6.steps.serenity.EndUserSteps.enterYourAccount(EndUserSteps.java:23)
+lab6.features.search.BooksterStory.enter_account(BooksterStory.java:34)
+</system-err></testcase><testcase classname="lab6.features.search.BooksterStory" name="Is button a visible"/><testcase classname="lab6.features.search.BooksterStory" name="Go to home page"/></testsuite>

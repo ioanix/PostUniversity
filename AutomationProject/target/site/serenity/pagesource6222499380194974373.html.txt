@@ -1,0 +1,569 @@
+<html class="wf-museo-n3-active wf-museo-n5-active wf-museo-n7-active wf-museo-i3-active wf-museo-i5-active wf-museo-i7-active wf-museosans-n3-active wf-museosans-i3-active wf-museosans-n5-active wf-museosans-i5-active wf-museosans-n7-active wf-museosans-i7-active wf-active"><head><style type="text/css">[uib-typeahead-popup].dropdown-menu{display:block;}</style><style type="text/css">[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}</style><style type="text/css">.uib-position-measure{display:block !important;visibility:hidden !important;position:absolute !important;top:-9999px !important;left:-9999px !important;}.uib-position-scrollbar-measure{position:absolute !important;top:-9999px !important;width:50px !important;height:50px !important;overflow:scroll !important;}.uib-position-body-scrollbar-measure{overflow:scroll !important;}</style><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+    <title>Bookster » Profil</title>
+    <link rel="apple-touch-icon" href="/Content/img/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <meta charset="utf-8">
+     
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=0">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    
+    <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d10lpsik1i8c69.cloudfront.net/w.js"></script><script src="https://connect.facebook.net/signals/config/184313275740178?v=2.9.28&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="//use.typekit.net/xnl6eta.js"></script>
+    <style type="text/css">.tk-museo{font-family:"museo",serif;}.tk-museo-sans{font-family:"museo-sans",sans-serif;}</style><style type="text/css">@font-face{font-family:museo;src:url(https://use.typekit.net/af/f7c91f/000000000000000000011b23/27/l?subset_id=1&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/f7c91f/000000000000000000011b23/27/d?subset_id=1&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/f7c91f/000000000000000000011b23/27/a?subset_id=1&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;font-display:auto;}@font-face{font-family:museo;src:url(https://use.typekit.net/af/0e7386/000000000000000000011b26/27/l?subset_id=1&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/0e7386/000000000000000000011b26/27/d?subset_id=1&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/0e7386/000000000000000000011b26/27/a?subset_id=1&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;font-display:auto;}@font-face{font-family:museo;src:url(https://use.typekit.net/af/8a79e7/000000000000000000011b24/27/l?subset_id=1&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/8a79e7/000000000000000000011b24/27/d?subset_id=1&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/8a79e7/000000000000000000011b24/27/a?subset_id=1&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-display:auto;}@font-face{font-family:museo;src:url(https://use.typekit.net/af/9797cd/00000000000000000000ebe4/27/l?subset_id=1&fvd=i3&v=3) format("woff2"),url(https://use.typekit.net/af/9797cd/00000000000000000000ebe4/27/d?subset_id=1&fvd=i3&v=3) format("woff"),url(https://use.typekit.net/af/9797cd/00000000000000000000ebe4/27/a?subset_id=1&fvd=i3&v=3) format("opentype");font-weight:300;font-style:italic;font-display:auto;}@font-face{font-family:museo;src:url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/l?subset_id=1&fvd=i5&v=3) format("woff2"),url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/d?subset_id=1&fvd=i5&v=3) format("woff"),url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/a?subset_id=1&fvd=i5&v=3) format("opentype");font-weight:500;font-style:italic;font-display:auto;}@font-face{font-family:museo;src:url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/l?subset_id=1&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/d?subset_id=1&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/a?subset_id=1&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/l?subset_id=1&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/d?subset_id=1&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/a?subset_id=1&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/l?subset_id=1&fvd=i3&v=3) format("woff2"),url(https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/d?subset_id=1&fvd=i3&v=3) format("woff"),url(https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/a?subset_id=1&fvd=i3&v=3) format("opentype");font-weight:300;font-style:italic;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/a28b50/00000000000000000000e803/27/l?subset_id=1&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/a28b50/00000000000000000000e803/27/d?subset_id=1&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/a28b50/00000000000000000000e803/27/a?subset_id=1&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/l?subset_id=1&fvd=i5&v=3) format("woff2"),url(https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/d?subset_id=1&fvd=i5&v=3) format("woff"),url(https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/a?subset_id=1&fvd=i5&v=3) format("opentype");font-weight:500;font-style:italic;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/l?subset_id=1&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/d?subset_id=1&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/a?subset_id=1&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/2841b6/00000000000000000000e806/27/l?subset_id=1&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/2841b6/00000000000000000000e806/27/d?subset_id=1&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/2841b6/00000000000000000000e806/27/a?subset_id=1&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-display:auto;}</style><script type="text/javascript">try { Typekit.load(); } catch (e) { }</script>
+    <link rel="stylesheet" href="/Content/fontawesome/css/font-awesome.min.css">
+    
+<link href="/content/bootstrap?v=Br-ximjSc-ttAlZs2jVHaxaGnJjjY7f7ipx6A4kkI5k1" rel="stylesheet">
+<link href="/content/vendor?v=szh5YMMU8TR2Odj4QKFi5wJCwBFeFV-SXty1cUTq9a81" rel="stylesheet">
+<link href="/content/site-css?v=hQeLouvhFCAsc_5qfn0acXJoubdRYs50OOaB1I-A9TY1" rel="stylesheet">
+
+    <link href="/Areas/Profile/Features/UserProfile/Content/user-profile.min.css?v=c29669df63e958f64836bf4f28bf7e9f" rel="stylesheet">
+
+    <script>
+        window.config = {
+            appModule: "BooksterLibrary",
+            appVersionKey: "c29669df63e958f64836bf4f28bf7e9f",
+            language: "ro",
+            rootUrl: "//library.bookster.ro/",
+            ngRootPath: "/Areas/Profile/Features/UserProfile/",
+            loggedInAs: "Calin",
+            loggedInCompany: "Tora Trading Services",
+            likesCookies: true
+        };
+    </script>
+    <script type="text/javascript">
+    var appInsights=window.appInsights||function(config)
+    {
+        function r(config){ t[config] = function(){ var i = arguments; t.queue.push(function(){ t[config].apply(t, i)})} }
+        var t = { config:config},u=document,e=window,o='script',s=u.createElement(o),i,f;for(s.src=config.url||'//az416426.vo.msecnd.net/scripts/a/ai.0.js',u.getElementsByTagName(o)[0].parentNode.appendChild(s),t.cookie=u.cookie,t.queue=[],i=['Event','Exception','Metric','PageView','Trace','Ajax'];i.length;)r('track'+i.pop());return r('setAuthenticatedUserContext'),r('clearAuthenticatedUserContext'),config.disableExceptionTracking||(i='onerror',r('_'+i),f=e[i],e[i]=function(config, r, u, e, o) { var s = f && f(config, r, u, e, o); return s !== !0 && t['_' + i](config, r, u, e, o),s}),t
+    }({
+        instrumentationKey:'eaba8062-123a-4c4b-9a6a-13f8bca4daea'
+    });
+
+    window.appInsights=appInsights;
+    appInsights.trackPageView();
+</script><script src="//az416426.vo.msecnd.net/scripts/a/ai.0.js"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-34737620-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-34737620-1');
+</script><script>!function (f, b, e, v, n, t, s) { if (f.fbq) return; n = f.fbq = function () { n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments) }; if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0; t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s) }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js'); 
+    fbq('init', '184313275740178'); 
+    fbq('track', 'PageView');</script>
+<noscript><img height="1" width="1" src="https://www.facebook.com/tr?id=184313275740178&ev=PageView&noscript=1" /></noscript>
+<script type="text/javascript">
+    window.__lo_site_id = 258759;
+
+    (function() {
+        var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
+        wa.src = 'https://d10lpsik1i8c69.cloudfront.net/w.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
+    })();
+</script></head>
+
+<body ng-app="BooksterLibrary" id="top" class="ng-scope">
+    
+<!--START of Site Header-->
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <div class="row">
+            <!-- TOP RIGHT MENU-->
+            <div class="master-icons-top-right clearfix">
+                <!-- Master Icons Zone -->
+                <div class="icons-wrapper pull-right">
+                    <div bk-navbar-notifications="" id="master-icon-notification" class="icon-notifications-wrapper ng-isolate-scope"><div class="icon-notifications active" ng-click="ctrl.ToggleState()">    <div class="icon-notifications-count ng-binding ng-hide" ng-show="ctrl.Model.UnreadNotificationsCount > 0">0</div></div><div id="notificationOverlay" class="notificationOverlay ng-hide" ng-show="ctrl.IsOpen">    <div class="notificationsInner arrow_box">        <div class="notifications-loading" ng-hide="ctrl.Model.IsInitialized"></div>        <div class="notificationsUnavailable ng-hide" ng-show="ctrl.Model.NoRecordsFound()">Nu ai notificari recente!</div>        <div ng-show="ctrl.Model.HasNotifications()" class="ng-hide">            <!-- ngRepeat: item in ctrl.Model.Notifications track by item.Id -->        </div>    </div></div></div>
+                    <div bk-settings-menu="" id="master-icon-settings" class="icon-settings-wrapper ng-isolate-scope"><div class="icon-settings" ng-click="ctrl.ToggleState()"></div><div class="master-menu-overlay ng-hide" ng-show="ctrl.IsOpen">    <div class="arrow_box">        <ul>            <li><a ng-href="/profile" href="/profile">Profilul meu</a></li>            <li><a ng-href="/provocartea" href="/provocartea">ProvoCartea</a></li>            <li><a ng-href="/settings" href="/settings">Setari</a></li>            <li><a ng-href="/faq" target="_self" href="/faq">Intrebari frecvente</a></li>            <li><a ng-href="/faq#contact" target="_self" href="/faq#contact">Contacteaza-ne</a></li>            <li><a ng-href="/auth/logout" target="_self" href="/auth/logout">Logout</a></li>        </ul>    </div></div></div>
+                </div>
+                <!-- Profile Zone -->
+                <div class="profile-information pull-right hidden-xs">
+                    <div class="avatar-holder pull-left"><span class="avatar-text bgcolour7">C</span></div>
+                    <div class="profile-user hidden-md hidden-sm hidden-xs">
+                        <div class="profile-name">
+                            <a href="/profile">Calin</a>
+                        </div>
+                        <div class="profile-company">
+                            <a href="/company">Tora Trading Services</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-4 col-lg-tmp-a clearfix">
+                <div class="navbar-left">
+                    <a class="logo-text pull-left hidden-md hidden-sm hidden-xs" href="https://www.bookster.ro">
+                        <img src="/content/img/logo/logo-text.svg" alt="Bookster">
+                    </a>
+                    <a class="logo-notext pull-left hidden-lg" href="https://www.bookster.ro">
+                        <img src="/content/img/logo/logo-notext.svg" alt="Bookster">
+                    </a>
+                    <ul class="pull-left fixed-menu hidden-xxs">
+                        <li class="hvr-underline-reveal">
+                            <a href="https://www.bookster.ro/library/?ref=nav-lib">
+                                <div class="pull-left link-title">Biblioteca</div>
+                            </a>
+                        </li>
+                        <li class="hvr-underline-reveal hidden-sm hidden-xs">
+                            <a href="https://library.bookster.ro/faq?ref=nav-faq" title="Intrebari frecvente">
+                                <div class="pull-left link-title">Info</div>
+                            </a>
+                        </li>
+                        <li class="hvr-underline-reveal hidden-md hidden-sm hidden-xs">
+                            <a href="https://www.bookster.ro/library/collection/nou-la-bookster/" title="Noutati">
+                                <div class="pull-left link-title">Noutati</div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-sm-8 col-lg-tmp-b clearfix search-container">
+                <!-- Master Search Zone -->
+                <div bk-navbar-search="" id="master-search" class="search-zone ng-isolate-scope"><form id="frmSearch" role="search" class="ng-pristine ng-valid ng-valid-maxlength">    <div class="form-group has-feedback">        <input type="text" maxlength="30" class="form-control ng-pristine ng-untouched ng-valid ng-empty ng-valid-maxlength" placeholder="Cauta in biblioteca Bookster..." ng-keydown="ctrl.DoNotSubmit($event)" ng-model="ctrl.Model.SearchText" ng-change="ctrl.SearchTextChanged()">        <span class="search-icon form-control-feedback" ng-class="{'searching':ctrl.Model.IsSearching}"></span>    </div>    <!-- ngIf: ctrl.Model.HasSearchResult() --></form></div>
+            </div>
+        </div>
+    </div>
+</nav>
+<!--END of Site Header-->
+
+    <div class="body-content">
+        
+
+
+<div class="container-fluid user-profile-container ng-scope" ng-controller="WishlistController as ctrl">
+    <div class="row">
+        <div class="col-lg-2 col-md-3 col-sm-4 col-profile-navigation">
+            
+
+<div class="container profile-summary-container">
+    <div class="row row-avatar">
+        <div class="col-md-12 col-avatar">
+            <div>
+                <div class="avatar-holder-xl"><span class="avatar-text bgcolour4">C</span></div>
+            </div>
+        </div>
+    </div>
+    <div class="row row-summary-data">
+        <div class="col-username col-md-12 text-center">
+            Calin Moldovan
+        </div>
+        <div class="col-rank col-md-12 text-center">
+            Bookcenic
+        </div>
+        <div class="col-points col-md-12 text-center">
+            660 puncte
+        </div>
+        <div class="col-title-challenge col-md-12 text-center">
+            <a ng-href="/provocartea" href="/provocartea">ProvoCartea Bookster</a>
+        </div>
+        <div class="col-points col-md-12 text-center">
+                <span>Alege cate carti vei citi anul acesta</span>
+        </div>
+    </div>
+</div>
+
+            <div bk-profile-navigation="" menu="wishlist" class="ng-isolate-scope"><div role="navigation" class="profile-navigation-container">
+    <ul>
+        <!-- ngRepeat: menu in ctrl.Menus --><li ng-repeat="menu in ctrl.Menus" ng-class="{'active': menu.Code === ctrl.ActiveMenuCode}" class="ng-scope">
+            <a class="list-link ng-binding" ng-href="/profile/reading" ng-bind-html="menu.Label" href="/profile/reading"><div class="nav-icon-menu icon-menu-reading-now"></div> Citesti acum</a>
+        </li><!-- end ngRepeat: menu in ctrl.Menus --><li ng-repeat="menu in ctrl.Menus" ng-class="{'active': menu.Code === ctrl.ActiveMenuCode}" class="ng-scope active">
+            <a class="list-link ng-binding" ng-href="/profile/wishlist" ng-bind-html="menu.Label" href="/profile/wishlist"><div class="nav-icon-menu icon-menu-wishlist"></div> Wishlist</a>
+        </li><!-- end ngRepeat: menu in ctrl.Menus --><li ng-repeat="menu in ctrl.Menus" ng-class="{'active': menu.Code === ctrl.ActiveMenuCode}" class="ng-scope">
+            <a class="list-link ng-binding" ng-href="/profile/library" ng-bind-html="menu.Label" href="/profile/library"><div class="nav-icon-menu icon-menu-my-library"></div> Biblioteca ta</a>
+        </li><!-- end ngRepeat: menu in ctrl.Menus -->
+    </ul>
+    <ul style="margin-top: 20px;">
+        <li>
+            <a class="list-link ng-binding" ng-href="/settings" ng-bind-html="ctrl.GetMenuLabel('settings')" href="/settings"><div class="nav-icon-menu icon-menu-settings"></div> Setari</a>
+        </li>
+    </ul>
+</div></div>
+        </div>
+        <div class="col-lg-10 col-md-9 col-sm-8 col-profile-section">
+            <div class="row">
+                <div class="col-md-12 section-title ng-binding">
+                    Wishlist
+                    <span ng-show="ctrl.MaterialCount > 0" class="ng-binding" style="">
+                        (14)
+                    </span>
+                </div>
+            </div>
+            <div class="row filter-row">
+                <div class="col-md-12">
+                    <div class="btn-group dropdown" uib-dropdown="">
+                        <button id="type-button" type="button" class="btn white-button ng-binding dropdown-toggle" style="min-width: 164px; margin-right: 15px;" uib-dropdown-toggle="" aria-haspopup="true" aria-expanded="false">
+                            Toate materialele
+                            <span class="caret" style="margin-left: 3px"></span>
+                        </button>
+                        <ul class="dropdown-menu" uib-dropdown-menu="" role="menu" aria-labelledby="type-button">
+                            <!-- ngRepeat: option in ctrl.MaterialTypeFilter --><li ng-repeat="option in ctrl.MaterialTypeFilter" class="ng-scope" style="">
+                                <a href="javascript:void(0);" ng-click="ctrl.MaterialTypeSelectOption(option)" ng-model="ctrl.SelectedMaterialType" class="ng-pristine ng-untouched ng-valid ng-binding ng-not-empty">Toate materialele</a>
+                            </li><!-- end ngRepeat: option in ctrl.MaterialTypeFilter --><li ng-repeat="option in ctrl.MaterialTypeFilter" class="ng-scope">
+                                <a href="javascript:void(0);" ng-click="ctrl.MaterialTypeSelectOption(option)" ng-model="ctrl.SelectedMaterialType" class="ng-pristine ng-untouched ng-valid ng-binding ng-not-empty">Carte</a>
+                            </li><!-- end ngRepeat: option in ctrl.MaterialTypeFilter --><li ng-repeat="option in ctrl.MaterialTypeFilter" class="ng-scope">
+                                <a href="javascript:void(0);" ng-click="ctrl.MaterialTypeSelectOption(option)" ng-model="ctrl.SelectedMaterialType" class="ng-pristine ng-untouched ng-valid ng-binding ng-not-empty">Video</a>
+                            </li><!-- end ngRepeat: option in ctrl.MaterialTypeFilter --><li ng-repeat="option in ctrl.MaterialTypeFilter" class="ng-scope">
+                                <a href="javascript:void(0);" ng-click="ctrl.MaterialTypeSelectOption(option)" ng-model="ctrl.SelectedMaterialType" class="ng-pristine ng-untouched ng-valid ng-binding ng-not-empty">Articol online</a>
+                            </li><!-- end ngRepeat: option in ctrl.MaterialTypeFilter --><li ng-repeat="option in ctrl.MaterialTypeFilter" class="ng-scope">
+                                <a href="javascript:void(0);" ng-click="ctrl.MaterialTypeSelectOption(option)" ng-model="ctrl.SelectedMaterialType" class="ng-pristine ng-untouched ng-valid ng-binding ng-not-empty">Articol tiparit</a>
+                            </li><!-- end ngRepeat: option in ctrl.MaterialTypeFilter --><li ng-repeat="option in ctrl.MaterialTypeFilter" class="ng-scope">
+                                <a href="javascript:void(0);" ng-click="ctrl.MaterialTypeSelectOption(option)" ng-model="ctrl.SelectedMaterialType" class="ng-pristine ng-untouched ng-valid ng-binding ng-not-empty">Studiu de caz</a>
+                            </li><!-- end ngRepeat: option in ctrl.MaterialTypeFilter --><li ng-repeat="option in ctrl.MaterialTypeFilter" class="ng-scope">
+                                <a href="javascript:void(0);" ng-click="ctrl.MaterialTypeSelectOption(option)" ng-model="ctrl.SelectedMaterialType" class="ng-pristine ng-untouched ng-valid ng-binding ng-not-empty">Ebook</a>
+                            </li><!-- end ngRepeat: option in ctrl.MaterialTypeFilter -->
+                        </ul>
+                    </div>
+                    <div class="btn-group btn-filter">
+                        <button id="availability-button" type="button" class="btn white-button ng-pristine ng-untouched ng-valid ng-binding ng-not-empty" uib-btn-checkbox="" ng-class="ctrl.Searcher.Filter.AvailableNextWeek ? 'active' : ''" ng-model="ctrl.Searcher.Filter.AvailableNextWeek" ng-change="ctrl.UpdateSearch()" ng-disabled="ctrl.SelectedMaterialType.IsOnline">
+                            <!-- ngIf: ctrl.Searcher.Filter.AvailableNextWeek -->
+                            <!-- ngIf: !ctrl.Searcher.Filter.AvailableNextWeek --><icon class="fa fa-fw fa-square-o ng-scope" ng-if="!ctrl.Searcher.Filter.AvailableNextWeek" style="margin-left: 3px"></icon><!-- end ngIf: !ctrl.Searcher.Filter.AvailableNextWeek -->
+                            Disponibile cu urmatoarea livrare
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <!-- ngIf: ctrl.ShowNoRecordsMessage() -->
+                <!-- ngIf: ctrl.ShowNoMatchingRecordsMessage() -->
+                <div class="profile-material-list material-list-md clearfix" infinite-scroll="ctrl.Searcher.NextPage()" infinite-scroll-disabled="ctrl.Searcher.Busy" infinite-scroll-distance="0" infinite-scroll-immediate-check="false">
+                    <div class="col-xs-12">
+                        <!-- ngRepeat: item in ctrl.Searcher.ItemsFound --><div class="material-container ng-scope ng-isolate-scope" ng-mouseenter="ctrl.OnMouseEnter()" ng-mouseleave="ctrl.OnMouseLeave()" ng-repeat="item in ctrl.Searcher.ItemsFound" material="item" size="md" oos-hint="true" show-menu-icon="true" area="wishlist">
+    <bk-material-cover material="material" size="size" oos-hint="oosHint" class="ng-isolate-scope"><div class="material-item">    <a ng-href="https://www.bookster.ro/books/ferma-animalelor/" href="https://www.bookster.ro/books/ferma-animalelor/">        <div class="cover">            <!-- ngIf: $ctrl.material.HasCoverImage --><img ng-if="$ctrl.material.HasCoverImage" ng-src="https://media.bookster.ro/material/eb83053c0d/3e5de41db3734362a1f269c8b13c9198_160x240.png" alt="" class="ng-scope" src="https://media.bookster.ro/material/eb83053c0d/3e5de41db3734362a1f269c8b13c9198_160x240.png" style=""><!-- end ngIf: $ctrl.material.HasCoverImage -->            <!-- ngIf: !$ctrl.material.HasCoverImage -->            <!-- ngIf: $ctrl.IsVideo() -->            <!-- ngIf: $ctrl.IsEbook() -->        </div>        <div class="cover-texture"></div>        <!-- ngIf: $ctrl.material.HasRead -->        <!-- ngIf: $ctrl.ShowOosHint() -->    </a></div></bk-material-cover>
+    <div class="material-description material-description-with-menu" ng-class="{'material-description-with-menu':ctrl.IsMenuEnabled}" style="">
+        <span class="material-title ng-binding">Ferma Animalelor</span>
+        <a ng-href="https://www.bookster.ro/authors/george-orwell/" href="https://www.bookster.ro/authors/george-orwell/">
+            <div class="material-author ng-binding">George Orwell</div>
+        </a>
+        <div class="menu-container dropdown ng-hide" uib-dropdown="" on-toggle="ctrl.MenuToggled(open)" ng-show="ctrl.ShowMenuIcon" style="">
+            <div class="menu-icon dropdown-toggle" uib-dropdown-toggle="" aria-haspopup="true" aria-expanded="false"></div>
+            <ul class="dropdown-menu " uib-dropdown-menu="">
+                <!-- ngRepeat: menu in ctrl.Menus --><li ng-repeat="menu in ctrl.Menus" ng-class="{'divider':menu.IsDivider}" class="ng-scope" style="">
+                    <!-- ngIf: !menu.IsDivider --><a ng-click="menu.Click()" ng-if="!menu.IsDivider" class="ng-binding ng-scope">
+                        <i class="fa fa-fw fa-trash"></i> Sterge din wishlist
+                    </a><!-- end ngIf: !menu.IsDivider -->
+                </li><!-- end ngRepeat: menu in ctrl.Menus -->
+            </ul>
+        </div>
+    </div>
+</div><!-- end ngRepeat: item in ctrl.Searcher.ItemsFound --><div class="material-container ng-scope ng-isolate-scope" ng-mouseenter="ctrl.OnMouseEnter()" ng-mouseleave="ctrl.OnMouseLeave()" ng-repeat="item in ctrl.Searcher.ItemsFound" material="item" size="md" oos-hint="true" show-menu-icon="true" area="wishlist">
+    <bk-material-cover material="material" size="size" oos-hint="oosHint" class="ng-isolate-scope"><div class="material-item">    <a ng-href="https://www.bookster.ro/books/oameni-anxiosi/" href="https://www.bookster.ro/books/oameni-anxiosi/">        <div class="cover">            <!-- ngIf: $ctrl.material.HasCoverImage --><img ng-if="$ctrl.material.HasCoverImage" ng-src="https://media.bookster.ro/material/d627b3e382/8e27b8ecf9904a8bad6120cdbdb16660_160x240.png" alt="" class="ng-scope" src="https://media.bookster.ro/material/d627b3e382/8e27b8ecf9904a8bad6120cdbdb16660_160x240.png" style=""><!-- end ngIf: $ctrl.material.HasCoverImage -->            <!-- ngIf: !$ctrl.material.HasCoverImage -->            <!-- ngIf: $ctrl.IsVideo() -->            <!-- ngIf: $ctrl.IsEbook() -->        </div>        <div class="cover-texture"></div>        <!-- ngIf: $ctrl.material.HasRead -->        <!-- ngIf: $ctrl.ShowOosHint() -->    </a></div></bk-material-cover>
+    <div class="material-description material-description-with-menu" ng-class="{'material-description-with-menu':ctrl.IsMenuEnabled}" style="">
+        <span class="material-title ng-binding">Oameni anxiosi</span>
+        <a ng-href="https://www.bookster.ro/authors/fredrik-backman/" href="https://www.bookster.ro/authors/fredrik-backman/">
+            <div class="material-author ng-binding">Fredrik Backman</div>
+        </a>
+        <div class="menu-container dropdown ng-hide" uib-dropdown="" on-toggle="ctrl.MenuToggled(open)" ng-show="ctrl.ShowMenuIcon" style="">
+            <div class="menu-icon dropdown-toggle" uib-dropdown-toggle="" aria-haspopup="true" aria-expanded="false"></div>
+            <ul class="dropdown-menu " uib-dropdown-menu="">
+                <!-- ngRepeat: menu in ctrl.Menus --><li ng-repeat="menu in ctrl.Menus" ng-class="{'divider':menu.IsDivider}" class="ng-scope" style="">
+                    <!-- ngIf: !menu.IsDivider --><a ng-click="menu.Click()" ng-if="!menu.IsDivider" class="ng-binding ng-scope">
+                        <i class="fa fa-fw fa-trash"></i> Sterge din wishlist
+                    </a><!-- end ngIf: !menu.IsDivider -->
+                </li><!-- end ngRepeat: menu in ctrl.Menus -->
+            </ul>
+        </div>
+    </div>
+</div><!-- end ngRepeat: item in ctrl.Searcher.ItemsFound --><div class="material-container ng-scope ng-isolate-scope" ng-mouseenter="ctrl.OnMouseEnter()" ng-mouseleave="ctrl.OnMouseLeave()" ng-repeat="item in ctrl.Searcher.ItemsFound" material="item" size="md" oos-hint="true" show-menu-icon="true" area="wishlist">
+    <bk-material-cover material="material" size="size" oos-hint="oosHint" class="ng-isolate-scope"><div class="material-item">    <a ng-href="https://www.bookster.ro/books/homo-deus/" href="https://www.bookster.ro/books/homo-deus/">        <div class="cover">            <!-- ngIf: $ctrl.material.HasCoverImage --><img ng-if="$ctrl.material.HasCoverImage" ng-src="https://media.bookster.ro/material/eb83053c0d/80c24850e27842deaa53621e0c44af6f_160x240.png" alt="" class="ng-scope" src="https://media.bookster.ro/material/eb83053c0d/80c24850e27842deaa53621e0c44af6f_160x240.png" style=""><!-- end ngIf: $ctrl.material.HasCoverImage -->            <!-- ngIf: !$ctrl.material.HasCoverImage -->            <!-- ngIf: $ctrl.IsVideo() -->            <!-- ngIf: $ctrl.IsEbook() -->        </div>        <div class="cover-texture"></div>        <!-- ngIf: $ctrl.material.HasRead -->        <!-- ngIf: $ctrl.ShowOosHint() -->    </a></div></bk-material-cover>
+    <div class="material-description material-description-with-menu" ng-class="{'material-description-with-menu':ctrl.IsMenuEnabled}" style="">
+        <span class="material-title ng-binding">Homo deus</span>
+        <a ng-href="https://www.bookster.ro/authors/yuval-noah-harari/" href="https://www.bookster.ro/authors/yuval-noah-harari/">
+            <div class="material-author ng-binding">Yuval Noah Harari</div>
+        </a>
+        <div class="menu-container dropdown ng-hide" uib-dropdown="" on-toggle="ctrl.MenuToggled(open)" ng-show="ctrl.ShowMenuIcon" style="">
+            <div class="menu-icon dropdown-toggle" uib-dropdown-toggle="" aria-haspopup="true" aria-expanded="false"></div>
+            <ul class="dropdown-menu " uib-dropdown-menu="">
+                <!-- ngRepeat: menu in ctrl.Menus --><li ng-repeat="menu in ctrl.Menus" ng-class="{'divider':menu.IsDivider}" class="ng-scope" style="">
+                    <!-- ngIf: !menu.IsDivider --><a ng-click="menu.Click()" ng-if="!menu.IsDivider" class="ng-binding ng-scope">
+                        <i class="fa fa-fw fa-trash"></i> Sterge din wishlist
+                    </a><!-- end ngIf: !menu.IsDivider -->
+                </li><!-- end ngRepeat: menu in ctrl.Menus -->
+            </ul>
+        </div>
+    </div>
+</div><!-- end ngRepeat: item in ctrl.Searcher.ItemsFound --><div class="material-container ng-scope ng-isolate-scope" ng-mouseenter="ctrl.OnMouseEnter()" ng-mouseleave="ctrl.OnMouseLeave()" ng-repeat="item in ctrl.Searcher.ItemsFound" material="item" size="md" oos-hint="true" show-menu-icon="true" area="wishlist">
+    <bk-material-cover material="material" size="size" oos-hint="oosHint" class="ng-isolate-scope"><div class="material-item">    <a ng-href="https://www.bookster.ro/books/du-te-si-pune-un-strajer/" href="https://www.bookster.ro/books/du-te-si-pune-un-strajer/">        <div class="cover">            <!-- ngIf: $ctrl.material.HasCoverImage --><img ng-if="$ctrl.material.HasCoverImage" ng-src="https://media.bookster.ro/material/30c9e96438/f718c126910341658c42385c3d08b906_160x240.jpg" alt="" class="ng-scope" src="https://media.bookster.ro/material/30c9e96438/f718c126910341658c42385c3d08b906_160x240.jpg" style=""><!-- end ngIf: $ctrl.material.HasCoverImage -->            <!-- ngIf: !$ctrl.material.HasCoverImage -->            <!-- ngIf: $ctrl.IsVideo() -->            <!-- ngIf: $ctrl.IsEbook() -->        </div>        <div class="cover-texture"></div>        <!-- ngIf: $ctrl.material.HasRead -->        <!-- ngIf: $ctrl.ShowOosHint() -->    </a></div></bk-material-cover>
+    <div class="material-description material-description-with-menu" ng-class="{'material-description-with-menu':ctrl.IsMenuEnabled}" style="">
+        <span class="material-title ng-binding">Du-te si pune un strajer (Sa ucizi o pasare cantatoare #2)</span>
+        <a ng-href="https://www.bookster.ro/authors/harper-lee/" href="https://www.bookster.ro/authors/harper-lee/">
+            <div class="material-author ng-binding">Harper Lee</div>
+        </a>
+        <div class="menu-container dropdown ng-hide" uib-dropdown="" on-toggle="ctrl.MenuToggled(open)" ng-show="ctrl.ShowMenuIcon" style="">
+            <div class="menu-icon dropdown-toggle" uib-dropdown-toggle="" aria-haspopup="true" aria-expanded="false"></div>
+            <ul class="dropdown-menu " uib-dropdown-menu="">
+                <!-- ngRepeat: menu in ctrl.Menus --><li ng-repeat="menu in ctrl.Menus" ng-class="{'divider':menu.IsDivider}" class="ng-scope" style="">
+                    <!-- ngIf: !menu.IsDivider --><a ng-click="menu.Click()" ng-if="!menu.IsDivider" class="ng-binding ng-scope">
+                        <i class="fa fa-fw fa-trash"></i> Sterge din wishlist
+                    </a><!-- end ngIf: !menu.IsDivider -->
+                </li><!-- end ngRepeat: menu in ctrl.Menus -->
+            </ul>
+        </div>
+    </div>
+</div><!-- end ngRepeat: item in ctrl.Searcher.ItemsFound --><div class="material-container ng-scope ng-isolate-scope" ng-mouseenter="ctrl.OnMouseEnter()" ng-mouseleave="ctrl.OnMouseLeave()" ng-repeat="item in ctrl.Searcher.ItemsFound" material="item" size="md" oos-hint="true" show-menu-icon="true" area="wishlist">
+    <bk-material-cover material="material" size="size" oos-hint="oosHint" class="ng-isolate-scope"><div class="material-item">    <a ng-href="https://www.bookster.ro/books/what-color-is-your-parachute-2009-a-practical-manual-for-job-hunters-and-career-changers/" href="https://www.bookster.ro/books/what-color-is-your-parachute-2009-a-practical-manual-for-job-hunters-and-career-changers/">        <div class="cover">            <!-- ngIf: $ctrl.material.HasCoverImage --><img ng-if="$ctrl.material.HasCoverImage" ng-src="https://media.bookster.ro/material/051ff8b138/723be39bf38f4bf58871898f2e9d00d9_160x240.png" alt="" class="ng-scope" src="https://media.bookster.ro/material/051ff8b138/723be39bf38f4bf58871898f2e9d00d9_160x240.png" style=""><!-- end ngIf: $ctrl.material.HasCoverImage -->            <!-- ngIf: !$ctrl.material.HasCoverImage -->            <!-- ngIf: $ctrl.IsVideo() -->            <!-- ngIf: $ctrl.IsEbook() -->        </div>        <div class="cover-texture"></div>        <!-- ngIf: $ctrl.material.HasRead -->        <!-- ngIf: $ctrl.ShowOosHint() -->    </a></div></bk-material-cover>
+    <div class="material-description material-description-with-menu" ng-class="{'material-description-with-menu':ctrl.IsMenuEnabled}" style="">
+        <span class="material-title ng-binding">What Color Is Your Parachute?</span>
+        <a ng-href="https://www.bookster.ro/authors/richard-nelson-bolles/" href="https://www.bookster.ro/authors/richard-nelson-bolles/">
+            <div class="material-author ng-binding">Richard Nelson Bolles</div>
+        </a>
+        <div class="menu-container dropdown ng-hide" uib-dropdown="" on-toggle="ctrl.MenuToggled(open)" ng-show="ctrl.ShowMenuIcon" style="">
+            <div class="menu-icon dropdown-toggle" uib-dropdown-toggle="" aria-haspopup="true" aria-expanded="false"></div>
+            <ul class="dropdown-menu " uib-dropdown-menu="">
+                <!-- ngRepeat: menu in ctrl.Menus --><li ng-repeat="menu in ctrl.Menus" ng-class="{'divider':menu.IsDivider}" class="ng-scope" style="">
+                    <!-- ngIf: !menu.IsDivider --><a ng-click="menu.Click()" ng-if="!menu.IsDivider" class="ng-binding ng-scope">
+                        <i class="fa fa-fw fa-trash"></i> Sterge din wishlist
+                    </a><!-- end ngIf: !menu.IsDivider -->
+                </li><!-- end ngRepeat: menu in ctrl.Menus -->
+            </ul>
+        </div>
+    </div>
+</div><!-- end ngRepeat: item in ctrl.Searcher.ItemsFound --><div class="material-container ng-scope ng-isolate-scope" ng-mouseenter="ctrl.OnMouseEnter()" ng-mouseleave="ctrl.OnMouseLeave()" ng-repeat="item in ctrl.Searcher.ItemsFound" material="item" size="md" oos-hint="true" show-menu-icon="true" area="wishlist">
+    <bk-material-cover material="material" size="size" oos-hint="oosHint" class="ng-isolate-scope"><div class="material-item">    <a ng-href="https://www.bookster.ro/books/arta-subtila-a-disperarii/" href="https://www.bookster.ro/books/arta-subtila-a-disperarii/">        <div class="cover">            <!-- ngIf: $ctrl.material.HasCoverImage --><img ng-if="$ctrl.material.HasCoverImage" ng-src="https://media.bookster.ro/material/d627b3e382/dfcb72d7bf7e492da5176d1681738557_160x240.png" alt="" class="ng-scope" src="https://media.bookster.ro/material/d627b3e382/dfcb72d7bf7e492da5176d1681738557_160x240.png" style=""><!-- end ngIf: $ctrl.material.HasCoverImage -->            <!-- ngIf: !$ctrl.material.HasCoverImage -->            <!-- ngIf: $ctrl.IsVideo() -->            <!-- ngIf: $ctrl.IsEbook() -->        </div>        <div class="cover-texture"></div>        <!-- ngIf: $ctrl.material.HasRead -->        <!-- ngIf: $ctrl.ShowOosHint() -->    </a></div></bk-material-cover>
+    <div class="material-description material-description-with-menu" ng-class="{'material-description-with-menu':ctrl.IsMenuEnabled}" style="">
+        <span class="material-title ng-binding">Arta subtila a disperarii</span>
+        <a ng-href="https://www.bookster.ro/authors/mark-manson/" href="https://www.bookster.ro/authors/mark-manson/">
+            <div class="material-author ng-binding">Mark Manson</div>
+        </a>
+        <div class="menu-container dropdown ng-hide" uib-dropdown="" on-toggle="ctrl.MenuToggled(open)" ng-show="ctrl.ShowMenuIcon" style="">
+            <div class="menu-icon dropdown-toggle" uib-dropdown-toggle="" aria-haspopup="true" aria-expanded="false"></div>
+            <ul class="dropdown-menu " uib-dropdown-menu="">
+                <!-- ngRepeat: menu in ctrl.Menus --><li ng-repeat="menu in ctrl.Menus" ng-class="{'divider':menu.IsDivider}" class="ng-scope" style="">
+                    <!-- ngIf: !menu.IsDivider --><a ng-click="menu.Click()" ng-if="!menu.IsDivider" class="ng-binding ng-scope">
+                        <i class="fa fa-fw fa-trash"></i> Sterge din wishlist
+                    </a><!-- end ngIf: !menu.IsDivider -->
+                </li><!-- end ngRepeat: menu in ctrl.Menus -->
+            </ul>
+        </div>
+    </div>
+</div><!-- end ngRepeat: item in ctrl.Searcher.ItemsFound --><div class="material-container ng-scope ng-isolate-scope" ng-mouseenter="ctrl.OnMouseEnter()" ng-mouseleave="ctrl.OnMouseLeave()" ng-repeat="item in ctrl.Searcher.ItemsFound" material="item" size="md" oos-hint="true" show-menu-icon="true" area="wishlist">
+    <bk-material-cover material="material" size="size" oos-hint="oosHint" class="ng-isolate-scope"><div class="material-item">    <a ng-href="https://www.bookster.ro/books/arta-subtila-a-nepasarii/" href="https://www.bookster.ro/books/arta-subtila-a-nepasarii/">        <div class="cover">            <!-- ngIf: $ctrl.material.HasCoverImage --><img ng-if="$ctrl.material.HasCoverImage" ng-src="https://media.bookster.ro/material/a961eab115/5f1cf9bc5b0a49309853e09b4e554500_160x240.png" alt="" class="ng-scope" src="https://media.bookster.ro/material/a961eab115/5f1cf9bc5b0a49309853e09b4e554500_160x240.png" style=""><!-- end ngIf: $ctrl.material.HasCoverImage -->            <!-- ngIf: !$ctrl.material.HasCoverImage -->            <!-- ngIf: $ctrl.IsVideo() -->            <!-- ngIf: $ctrl.IsEbook() -->        </div>        <div class="cover-texture"></div>        <!-- ngIf: $ctrl.material.HasRead -->        <!-- ngIf: $ctrl.ShowOosHint() -->    </a></div></bk-material-cover>
+    <div class="material-description material-description-with-menu" ng-class="{'material-description-with-menu':ctrl.IsMenuEnabled}" style="">
+        <span class="material-title ng-binding">Arta subtila a nepasarii</span>
+        <a ng-href="https://www.bookster.ro/authors/mark-manson/" href="https://www.bookster.ro/authors/mark-manson/">
+            <div class="material-author ng-binding">Mark Manson</div>
+        </a>
+        <div class="menu-container dropdown ng-hide" uib-dropdown="" on-toggle="ctrl.MenuToggled(open)" ng-show="ctrl.ShowMenuIcon" style="">
+            <div class="menu-icon dropdown-toggle" uib-dropdown-toggle="" aria-haspopup="true" aria-expanded="false"></div>
+            <ul class="dropdown-menu " uib-dropdown-menu="">
+                <!-- ngRepeat: menu in ctrl.Menus --><li ng-repeat="menu in ctrl.Menus" ng-class="{'divider':menu.IsDivider}" class="ng-scope" style="">
+                    <!-- ngIf: !menu.IsDivider --><a ng-click="menu.Click()" ng-if="!menu.IsDivider" class="ng-binding ng-scope">
+                        <i class="fa fa-fw fa-trash"></i> Sterge din wishlist
+                    </a><!-- end ngIf: !menu.IsDivider -->
+                </li><!-- end ngRepeat: menu in ctrl.Menus -->
+            </ul>
+        </div>
+    </div>
+</div><!-- end ngRepeat: item in ctrl.Searcher.ItemsFound --><div class="material-container ng-scope ng-isolate-scope" ng-mouseenter="ctrl.OnMouseEnter()" ng-mouseleave="ctrl.OnMouseLeave()" ng-repeat="item in ctrl.Searcher.ItemsFound" material="item" size="md" oos-hint="true" show-menu-icon="true" area="wishlist">
+    <bk-material-cover material="material" size="size" oos-hint="oosHint" class="ng-isolate-scope"><div class="material-item">    <a ng-href="https://www.bookster.ro/books/un-barbat-pe-nume-ove/" href="https://www.bookster.ro/books/un-barbat-pe-nume-ove/">        <div class="cover">            <!-- ngIf: $ctrl.material.HasCoverImage --><img ng-if="$ctrl.material.HasCoverImage" ng-src="https://media.bookster.ro/material/031093d3c5/678ba2dd265b4b46bb91cf5ff2ef6bab_160x240.png" alt="" class="ng-scope" src="https://media.bookster.ro/material/031093d3c5/678ba2dd265b4b46bb91cf5ff2ef6bab_160x240.png" style=""><!-- end ngIf: $ctrl.material.HasCoverImage -->            <!-- ngIf: !$ctrl.material.HasCoverImage -->            <!-- ngIf: $ctrl.IsVideo() -->            <!-- ngIf: $ctrl.IsEbook() -->        </div>        <div class="cover-texture"></div>        <!-- ngIf: $ctrl.material.HasRead -->        <!-- ngIf: $ctrl.ShowOosHint() -->    </a></div></bk-material-cover>
+    <div class="material-description material-description-with-menu" ng-class="{'material-description-with-menu':ctrl.IsMenuEnabled}" style="">
+        <span class="material-title ng-binding">Un barbat pe nume Ove</span>
+        <a ng-href="https://www.bookster.ro/authors/fredrik-backman/" href="https://www.bookster.ro/authors/fredrik-backman/">
+            <div class="material-author ng-binding">Fredrik Backman</div>
+        </a>
+        <div class="menu-container dropdown ng-hide" uib-dropdown="" on-toggle="ctrl.MenuToggled(open)" ng-show="ctrl.ShowMenuIcon" style="">
+            <div class="menu-icon dropdown-toggle" uib-dropdown-toggle="" aria-haspopup="true" aria-expanded="false"></div>
+            <ul class="dropdown-menu " uib-dropdown-menu="">
+                <!-- ngRepeat: menu in ctrl.Menus --><li ng-repeat="menu in ctrl.Menus" ng-class="{'divider':menu.IsDivider}" class="ng-scope" style="">
+                    <!-- ngIf: !menu.IsDivider --><a ng-click="menu.Click()" ng-if="!menu.IsDivider" class="ng-binding ng-scope">
+                        <i class="fa fa-fw fa-trash"></i> Sterge din wishlist
+                    </a><!-- end ngIf: !menu.IsDivider -->
+                </li><!-- end ngRepeat: menu in ctrl.Menus -->
+            </ul>
+        </div>
+    </div>
+</div><!-- end ngRepeat: item in ctrl.Searcher.ItemsFound --><div class="material-container ng-scope ng-isolate-scope" ng-mouseenter="ctrl.OnMouseEnter()" ng-mouseleave="ctrl.OnMouseLeave()" ng-repeat="item in ctrl.Searcher.ItemsFound" material="item" size="md" oos-hint="true" show-menu-icon="true" area="wishlist">
+    <bk-material-cover material="material" size="size" oos-hint="oosHint" class="ng-isolate-scope"><div class="material-item">    <a ng-href="https://www.bookster.ro/books/cand-dumnezeu-era-iepure/" href="https://www.bookster.ro/books/cand-dumnezeu-era-iepure/">        <div class="cover">            <!-- ngIf: $ctrl.material.HasCoverImage --><img ng-if="$ctrl.material.HasCoverImage" ng-src="https://media.bookster.ro/material/23007e5abe/30afd67ebe9c49548b8479e2c76f2520_160x240.png" alt="" class="ng-scope" src="https://media.bookster.ro/material/23007e5abe/30afd67ebe9c49548b8479e2c76f2520_160x240.png" style=""><!-- end ngIf: $ctrl.material.HasCoverImage -->            <!-- ngIf: !$ctrl.material.HasCoverImage -->            <!-- ngIf: $ctrl.IsVideo() -->            <!-- ngIf: $ctrl.IsEbook() -->        </div>        <div class="cover-texture"></div>        <!-- ngIf: $ctrl.material.HasRead -->        <!-- ngIf: $ctrl.ShowOosHint() --><div class="cover-texture-unavailable ng-scope" ng-if="$ctrl.ShowOosHint()" style=""></div><!-- end ngIf: $ctrl.ShowOosHint() -->    </a></div></bk-material-cover>
+    <div class="material-description material-description-with-menu" ng-class="{'material-description-with-menu':ctrl.IsMenuEnabled}" style="">
+        <span class="material-title ng-binding">Cand Dumnezeu era iepure</span>
+        <a ng-href="https://www.bookster.ro/authors/sarah-winman/" href="https://www.bookster.ro/authors/sarah-winman/">
+            <div class="material-author ng-binding">Sarah Winman</div>
+        </a>
+        <div class="menu-container dropdown ng-hide" uib-dropdown="" on-toggle="ctrl.MenuToggled(open)" ng-show="ctrl.ShowMenuIcon" style="">
+            <div class="menu-icon dropdown-toggle" uib-dropdown-toggle="" aria-haspopup="true" aria-expanded="false"></div>
+            <ul class="dropdown-menu " uib-dropdown-menu="">
+                <!-- ngRepeat: menu in ctrl.Menus --><li ng-repeat="menu in ctrl.Menus" ng-class="{'divider':menu.IsDivider}" class="ng-scope" style="">
+                    <!-- ngIf: !menu.IsDivider --><a ng-click="menu.Click()" ng-if="!menu.IsDivider" class="ng-binding ng-scope">
+                        <i class="fa fa-fw fa-trash"></i> Sterge din wishlist
+                    </a><!-- end ngIf: !menu.IsDivider -->
+                </li><!-- end ngRepeat: menu in ctrl.Menus -->
+            </ul>
+        </div>
+    </div>
+</div><!-- end ngRepeat: item in ctrl.Searcher.ItemsFound --><div class="material-container ng-scope ng-isolate-scope" ng-mouseenter="ctrl.OnMouseEnter()" ng-mouseleave="ctrl.OnMouseLeave()" ng-repeat="item in ctrl.Searcher.ItemsFound" material="item" size="md" oos-hint="true" show-menu-icon="true" area="wishlist">
+    <bk-material-cover material="material" size="size" oos-hint="oosHint" class="ng-isolate-scope"><div class="material-item">    <a ng-href="https://www.bookster.ro/books/viata-dupa-auschwitz/" href="https://www.bookster.ro/books/viata-dupa-auschwitz/">        <div class="cover">            <!-- ngIf: $ctrl.material.HasCoverImage --><img ng-if="$ctrl.material.HasCoverImage" ng-src="https://media.bookster.ro/material/7f3a6cf4eb/cdaad4b7ce634012a720113cc72a5068_160x240.png" alt="" class="ng-scope" src="https://media.bookster.ro/material/7f3a6cf4eb/cdaad4b7ce634012a720113cc72a5068_160x240.png" style=""><!-- end ngIf: $ctrl.material.HasCoverImage -->            <!-- ngIf: !$ctrl.material.HasCoverImage -->            <!-- ngIf: $ctrl.IsVideo() -->            <!-- ngIf: $ctrl.IsEbook() -->        </div>        <div class="cover-texture"></div>        <!-- ngIf: $ctrl.material.HasRead -->        <!-- ngIf: $ctrl.ShowOosHint() -->    </a></div></bk-material-cover>
+    <div class="material-description material-description-with-menu" ng-class="{'material-description-with-menu':ctrl.IsMenuEnabled}" style="">
+        <span class="material-title ng-binding">Viata dupa Auschwitz</span>
+        <a ng-href="https://www.bookster.ro/authors/eva-schloss/" href="https://www.bookster.ro/authors/eva-schloss/">
+            <div class="material-author ng-binding">Eva Schloss</div>
+        </a>
+        <div class="menu-container dropdown ng-hide" uib-dropdown="" on-toggle="ctrl.MenuToggled(open)" ng-show="ctrl.ShowMenuIcon" style="">
+            <div class="menu-icon dropdown-toggle" uib-dropdown-toggle="" aria-haspopup="true" aria-expanded="false"></div>
+            <ul class="dropdown-menu " uib-dropdown-menu="">
+                <!-- ngRepeat: menu in ctrl.Menus --><li ng-repeat="menu in ctrl.Menus" ng-class="{'divider':menu.IsDivider}" class="ng-scope" style="">
+                    <!-- ngIf: !menu.IsDivider --><a ng-click="menu.Click()" ng-if="!menu.IsDivider" class="ng-binding ng-scope">
+                        <i class="fa fa-fw fa-trash"></i> Sterge din wishlist
+                    </a><!-- end ngIf: !menu.IsDivider -->
+                </li><!-- end ngRepeat: menu in ctrl.Menus -->
+            </ul>
+        </div>
+    </div>
+</div><!-- end ngRepeat: item in ctrl.Searcher.ItemsFound --><div class="material-container ng-scope ng-isolate-scope" ng-mouseenter="ctrl.OnMouseEnter()" ng-mouseleave="ctrl.OnMouseLeave()" ng-repeat="item in ctrl.Searcher.ItemsFound" material="item" size="md" oos-hint="true" show-menu-icon="true" area="wishlist">
+    <bk-material-cover material="material" size="size" oos-hint="oosHint" class="ng-isolate-scope"><div class="material-item">    <a ng-href="https://www.bookster.ro/books/zei-americani/" href="https://www.bookster.ro/books/zei-americani/">        <div class="cover">            <!-- ngIf: $ctrl.material.HasCoverImage --><img ng-if="$ctrl.material.HasCoverImage" ng-src="https://media.bookster.ro/material/031093d3c5/f00167d981024c87b7e7a0568aa1de8c_160x240.png" alt="" class="ng-scope" src="https://media.bookster.ro/material/031093d3c5/f00167d981024c87b7e7a0568aa1de8c_160x240.png" style=""><!-- end ngIf: $ctrl.material.HasCoverImage -->            <!-- ngIf: !$ctrl.material.HasCoverImage -->            <!-- ngIf: $ctrl.IsVideo() -->            <!-- ngIf: $ctrl.IsEbook() -->        </div>        <div class="cover-texture"></div>        <!-- ngIf: $ctrl.material.HasRead -->        <!-- ngIf: $ctrl.ShowOosHint() -->    </a></div></bk-material-cover>
+    <div class="material-description material-description-with-menu" ng-class="{'material-description-with-menu':ctrl.IsMenuEnabled}" style="">
+        <span class="material-title ng-binding">Zei Americani</span>
+        <a ng-href="https://www.bookster.ro/authors/neil-gaiman/" href="https://www.bookster.ro/authors/neil-gaiman/">
+            <div class="material-author ng-binding">Neil Gaiman</div>
+        </a>
+        <div class="menu-container dropdown ng-hide" uib-dropdown="" on-toggle="ctrl.MenuToggled(open)" ng-show="ctrl.ShowMenuIcon" style="">
+            <div class="menu-icon dropdown-toggle" uib-dropdown-toggle="" aria-haspopup="true" aria-expanded="false"></div>
+            <ul class="dropdown-menu " uib-dropdown-menu="">
+                <!-- ngRepeat: menu in ctrl.Menus --><li ng-repeat="menu in ctrl.Menus" ng-class="{'divider':menu.IsDivider}" class="ng-scope" style="">
+                    <!-- ngIf: !menu.IsDivider --><a ng-click="menu.Click()" ng-if="!menu.IsDivider" class="ng-binding ng-scope">
+                        <i class="fa fa-fw fa-trash"></i> Sterge din wishlist
+                    </a><!-- end ngIf: !menu.IsDivider -->
+                </li><!-- end ngRepeat: menu in ctrl.Menus -->
+            </ul>
+        </div>
+    </div>
+</div><!-- end ngRepeat: item in ctrl.Searcher.ItemsFound --><div class="material-container ng-scope ng-isolate-scope" ng-mouseenter="ctrl.OnMouseEnter()" ng-mouseleave="ctrl.OnMouseLeave()" ng-repeat="item in ctrl.Searcher.ItemsFound" material="item" size="md" oos-hint="true" show-menu-icon="true" area="wishlist">
+    <bk-material-cover material="material" size="size" oos-hint="oosHint" class="ng-isolate-scope"><div class="material-item">    <a ng-href="https://www.bookster.ro/books/metro-2033/" href="https://www.bookster.ro/books/metro-2033/">        <div class="cover">            <!-- ngIf: $ctrl.material.HasCoverImage --><img ng-if="$ctrl.material.HasCoverImage" ng-src="https://media.bookster.ro/material/031093d3c5/497037b96df64d00b1657b671bfdad18_160x240.png" alt="" class="ng-scope" src="https://media.bookster.ro/material/031093d3c5/497037b96df64d00b1657b671bfdad18_160x240.png" style=""><!-- end ngIf: $ctrl.material.HasCoverImage -->            <!-- ngIf: !$ctrl.material.HasCoverImage -->            <!-- ngIf: $ctrl.IsVideo() -->            <!-- ngIf: $ctrl.IsEbook() -->        </div>        <div class="cover-texture"></div>        <!-- ngIf: $ctrl.material.HasRead -->        <!-- ngIf: $ctrl.ShowOosHint() -->    </a></div></bk-material-cover>
+    <div class="material-description material-description-with-menu" ng-class="{'material-description-with-menu':ctrl.IsMenuEnabled}" style="">
+        <span class="material-title ng-binding">Metro 2033 (Metro #1)</span>
+        <a ng-href="https://www.bookster.ro/authors/dmitri-gluhovski/" href="https://www.bookster.ro/authors/dmitri-gluhovski/">
+            <div class="material-author ng-binding">Dmitri Gluhovski</div>
+        </a>
+        <div class="menu-container dropdown ng-hide" uib-dropdown="" on-toggle="ctrl.MenuToggled(open)" ng-show="ctrl.ShowMenuIcon" style="">
+            <div class="menu-icon dropdown-toggle" uib-dropdown-toggle="" aria-haspopup="true" aria-expanded="false"></div>
+            <ul class="dropdown-menu " uib-dropdown-menu="">
+                <!-- ngRepeat: menu in ctrl.Menus --><li ng-repeat="menu in ctrl.Menus" ng-class="{'divider':menu.IsDivider}" class="ng-scope" style="">
+                    <!-- ngIf: !menu.IsDivider --><a ng-click="menu.Click()" ng-if="!menu.IsDivider" class="ng-binding ng-scope">
+                        <i class="fa fa-fw fa-trash"></i> Sterge din wishlist
+                    </a><!-- end ngIf: !menu.IsDivider -->
+                </li><!-- end ngRepeat: menu in ctrl.Menus -->
+            </ul>
+        </div>
+    </div>
+</div><!-- end ngRepeat: item in ctrl.Searcher.ItemsFound --><div class="material-container ng-scope ng-isolate-scope" ng-mouseenter="ctrl.OnMouseEnter()" ng-mouseleave="ctrl.OnMouseLeave()" ng-repeat="item in ctrl.Searcher.ItemsFound" material="item" size="md" oos-hint="true" show-menu-icon="true" area="wishlist">
+    <bk-material-cover material="material" size="size" oos-hint="oosHint" class="ng-isolate-scope"><div class="material-item">    <a ng-href="https://www.bookster.ro/books/pistolarul-turnul-intunecat-1/" href="https://www.bookster.ro/books/pistolarul-turnul-intunecat-1/">        <div class="cover">            <!-- ngIf: $ctrl.material.HasCoverImage --><img ng-if="$ctrl.material.HasCoverImage" ng-src="https://media.bookster.ro/material/f35f3822d7/ce4226456b55420f8878834ca49a161b_160x240.png" alt="" class="ng-scope" src="https://media.bookster.ro/material/f35f3822d7/ce4226456b55420f8878834ca49a161b_160x240.png" style=""><!-- end ngIf: $ctrl.material.HasCoverImage -->            <!-- ngIf: !$ctrl.material.HasCoverImage -->            <!-- ngIf: $ctrl.IsVideo() -->            <!-- ngIf: $ctrl.IsEbook() -->        </div>        <div class="cover-texture"></div>        <!-- ngIf: $ctrl.material.HasRead -->        <!-- ngIf: $ctrl.ShowOosHint() -->    </a></div></bk-material-cover>
+    <div class="material-description material-description-with-menu" ng-class="{'material-description-with-menu':ctrl.IsMenuEnabled}" style="">
+        <span class="material-title ng-binding">Pistolarul (Turnul Intunecat #1)</span>
+        <a ng-href="https://www.bookster.ro/authors/stephen-king/" href="https://www.bookster.ro/authors/stephen-king/">
+            <div class="material-author ng-binding">Stephen King</div>
+        </a>
+        <div class="menu-container dropdown ng-hide" uib-dropdown="" on-toggle="ctrl.MenuToggled(open)" ng-show="ctrl.ShowMenuIcon" style="">
+            <div class="menu-icon dropdown-toggle" uib-dropdown-toggle="" aria-haspopup="true" aria-expanded="false"></div>
+            <ul class="dropdown-menu " uib-dropdown-menu="">
+                <!-- ngRepeat: menu in ctrl.Menus --><li ng-repeat="menu in ctrl.Menus" ng-class="{'divider':menu.IsDivider}" class="ng-scope" style="">
+                    <!-- ngIf: !menu.IsDivider --><a ng-click="menu.Click()" ng-if="!menu.IsDivider" class="ng-binding ng-scope">
+                        <i class="fa fa-fw fa-trash"></i> Sterge din wishlist
+                    </a><!-- end ngIf: !menu.IsDivider -->
+                </li><!-- end ngRepeat: menu in ctrl.Menus -->
+            </ul>
+        </div>
+    </div>
+</div><!-- end ngRepeat: item in ctrl.Searcher.ItemsFound --><div class="material-container ng-scope ng-isolate-scope" ng-mouseenter="ctrl.OnMouseEnter()" ng-mouseleave="ctrl.OnMouseLeave()" ng-repeat="item in ctrl.Searcher.ItemsFound" material="item" size="md" oos-hint="true" show-menu-icon="true" area="wishlist">
+    <bk-material-cover material="material" size="size" oos-hint="oosHint" class="ng-isolate-scope"><div class="material-item">    <a ng-href="https://www.bookster.ro/books/caderea-uriasilor/" href="https://www.bookster.ro/books/caderea-uriasilor/">        <div class="cover">            <!-- ngIf: $ctrl.material.HasCoverImage --><img ng-if="$ctrl.material.HasCoverImage" ng-src="https://media.bookster.ro/material/031093d3c5/e1629d201ebc4db9befdc60b6ff66270_160x240.png" alt="" class="ng-scope" src="https://media.bookster.ro/material/031093d3c5/e1629d201ebc4db9befdc60b6ff66270_160x240.png" style=""><!-- end ngIf: $ctrl.material.HasCoverImage -->            <!-- ngIf: !$ctrl.material.HasCoverImage -->            <!-- ngIf: $ctrl.IsVideo() -->            <!-- ngIf: $ctrl.IsEbook() -->        </div>        <div class="cover-texture"></div>        <!-- ngIf: $ctrl.material.HasRead -->        <!-- ngIf: $ctrl.ShowOosHint() -->    </a></div></bk-material-cover>
+    <div class="material-description material-description-with-menu" ng-class="{'material-description-with-menu':ctrl.IsMenuEnabled}" style="">
+        <span class="material-title ng-binding">Caderea uriasilor  (Trilogia Secolului #1)</span>
+        <a ng-href="https://www.bookster.ro/authors/ken-follett/" href="https://www.bookster.ro/authors/ken-follett/">
+            <div class="material-author ng-binding">Ken Follett</div>
+        </a>
+        <div class="menu-container dropdown ng-hide" uib-dropdown="" on-toggle="ctrl.MenuToggled(open)" ng-show="ctrl.ShowMenuIcon" style="">
+            <div class="menu-icon dropdown-toggle" uib-dropdown-toggle="" aria-haspopup="true" aria-expanded="false"></div>
+            <ul class="dropdown-menu " uib-dropdown-menu="">
+                <!-- ngRepeat: menu in ctrl.Menus --><li ng-repeat="menu in ctrl.Menus" ng-class="{'divider':menu.IsDivider}" class="ng-scope" style="">
+                    <!-- ngIf: !menu.IsDivider --><a ng-click="menu.Click()" ng-if="!menu.IsDivider" class="ng-binding ng-scope">
+                        <i class="fa fa-fw fa-trash"></i> Sterge din wishlist
+                    </a><!-- end ngIf: !menu.IsDivider -->
+                </li><!-- end ngRepeat: menu in ctrl.Menus -->
+            </ul>
+        </div>
+    </div>
+</div><!-- end ngRepeat: item in ctrl.Searcher.ItemsFound -->
+                    </div>
+                </div>
+                <div class="loading-container">
+                    <div class="loading ng-hide" ng-show="ctrl.Searcher.Busy &amp;&amp; ctrl.Searcher.ItemsFound.length > 0"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    </div>
+    <!--Site Footer-->
+<div id="footer">
+    <div class="lower">
+        <div class="container hidden-sm hidden-xs">
+            <div class="col-md-6 text-left">
+                <img class="readNroll" style="width: 145px" src="/Content/img/logo/logo-rnr.svg" alt="Read'n'Roll">
+                <div style="padding-top: 10px;">
+                    <p>
+                        <b>Bookster</b> este fabricat in Romania cu pasiune pentru educatie.
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-6" style="padding-top: 5px;">
+                <div class="clearfix">
+                    <ul class="footerNavigation">
+                        <li>
+                            <a class="icon-social" href="https://www.facebook.com/booksterro" target="_blank">
+                                <img src="/Content/img/social/logo-facebook.svg">
+                            </a>
+                        </li>
+                        <li>
+                            <a class="icon-social" href="https://instagram.com/bookster.ro/" target="_blank">
+                                <img src="/Content/img/social/logo-instagram.svg">
+
+                            </a>
+                        </li>
+                        <li>
+                            <a class="icon-social" href="https://www.linkedin.com/company/bookster/" target="_blank">
+                                <img src="/Content/img/social/logo-linkedin.svg">
+
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="clearfix" style="padding-top: 10px;">
+                    <ul class="footerNavigation">
+                        <li><a href="https://cariere.bookster.ro/">Cariere</a></li>
+                        <li><a href="https://library.bookster.ro/info/regulament">Regulament</a></li>
+                        <li><a href="https://library.bookster.ro/info/termeni-conditii">Termeni si conditii</a></li>
+                        <li><a href="https://library.bookster.ro/info/date-personale">Date cu caracter personal</a></li>
+                        <li><a href="https://library.bookster.ro/faq">FAQ</a></li>
+                        <li><a href="https://library.bookster.ro/faq#contact">Scrie-ne</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="container visible-sm visible-xs">
+            <div class="col-xs-12 text-center">
+                <img class="readNroll" style="width: 145px" src="/Content/img/logo/logo-rnr.svg" alt="Read'n'Roll">
+            </div>
+        </div>
+    </div>
+</div>
+<!--END of Site Footer-->
+    <div class="body-side-menu-overlay"></div>
+
+    
+<script src="/bundles/js-core?v=T5zrZscP5zZlapnoaothKSJEyk8IVwGII-wT0O9JKHI1"></script>
+<script src="/bundles/angular?v=O62XHsDF6mpn5iozXUNgMPvDKcORN6BsT2nZcnmtdto1"></script>
+
+    <script src="/Components/app-bundle.min.js?v=c29669df63e958f64836bf4f28bf7e9f" type="text/javascript"></script>
+<script src="/bundles/templates/app?v=a9uSRjzRJFunT4r03ghbr4T-PbMrTk2eucLTJM5E6Gs1"></script>
+    <script src="/Components/Master/master-components.min.js?v=c29669df63e958f64836bf4f28bf7e9f" type="text/javascript"></script>
+    
+    <script src="/bundles/progressbar?v=eEPtZXWUfnfSaVA9tC47Q9uGRK28WMnKmiSZcA4_6vI1"></script>
+
+    <script type="text/javascript">angular.module(window.config.appModule).constant("Availability", "");</script>
+    <script src="/Areas/Profile/Features/UserProfile/Scripts/userprofile.min.js?v=c29669df63e958f64836bf4f28bf7e9f" type="text/javascript"></script>
+ 
+
+
+
+<iframe id="lo-cs-frame" src="about:blank" aria-hidden="true" title="Lucky Orange" style="display: none !important;"></iframe></body></html>

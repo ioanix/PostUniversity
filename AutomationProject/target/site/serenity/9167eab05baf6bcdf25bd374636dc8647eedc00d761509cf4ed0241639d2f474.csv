@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Bookster story","Enter account","FAILURE","2020-11-16T14:59:08.26238+02:00[Europe/Bucharest]","0.0","7.23"
+"Bookster story","Remove a book from wishlist","ERROR","2020-11-18T16:04:46.474452+02:00[Europe/Bucharest]","0.0","16.99"

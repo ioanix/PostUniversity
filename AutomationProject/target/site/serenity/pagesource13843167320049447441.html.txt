@@ -1,0 +1,176 @@
+<html class="wf-museosans-n7-active wf-museosans-n5-active wf-museo-n5-active wf-museo-i3-active wf-museo-i5-active wf-museo-n3-active wf-museo-n7-active wf-museosans-n3-active wf-museo-i7-active wf-museosans-i3-active wf-museosans-i5-active wf-museosans-i7-active wf-active"><head><style type="text/css">[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}</style><style type="text/css">[uib-typeahead-popup].dropdown-menu{display:block;}</style><style type="text/css">.uib-position-measure{display:block !important;visibility:hidden !important;position:absolute !important;top:-9999px !important;left:-9999px !important;}.uib-position-scrollbar-measure{position:absolute !important;top:-9999px !important;width:50px !important;height:50px !important;overflow:scroll !important;}.uib-position-body-scrollbar-measure{overflow:scroll !important;}</style><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+    <link rel="shortcut icon" type="image/x-icon" href="//accounts.bookster.ro/favicon.ico">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>Login</title>
+    
+    <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d10lpsik1i8c69.cloudfront.net/w.js"></script><script type="text/javascript" src="//use.typekit.net/xnl6eta.js"></script>
+    <style type="text/css">.tk-museo{font-family:"museo",serif;}.tk-museo-sans{font-family:"museo-sans",sans-serif;}</style><style type="text/css">@font-face{font-family:museo;src:url(https://use.typekit.net/af/f7c91f/000000000000000000011b23/27/l?subset_id=1&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/f7c91f/000000000000000000011b23/27/d?subset_id=1&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/f7c91f/000000000000000000011b23/27/a?subset_id=1&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;font-display:auto;}@font-face{font-family:museo;src:url(https://use.typekit.net/af/0e7386/000000000000000000011b26/27/l?subset_id=1&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/0e7386/000000000000000000011b26/27/d?subset_id=1&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/0e7386/000000000000000000011b26/27/a?subset_id=1&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;font-display:auto;}@font-face{font-family:museo;src:url(https://use.typekit.net/af/8a79e7/000000000000000000011b24/27/l?subset_id=1&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/8a79e7/000000000000000000011b24/27/d?subset_id=1&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/8a79e7/000000000000000000011b24/27/a?subset_id=1&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-display:auto;}@font-face{font-family:museo;src:url(https://use.typekit.net/af/9797cd/00000000000000000000ebe4/27/l?subset_id=1&fvd=i3&v=3) format("woff2"),url(https://use.typekit.net/af/9797cd/00000000000000000000ebe4/27/d?subset_id=1&fvd=i3&v=3) format("woff"),url(https://use.typekit.net/af/9797cd/00000000000000000000ebe4/27/a?subset_id=1&fvd=i3&v=3) format("opentype");font-weight:300;font-style:italic;font-display:auto;}@font-face{font-family:museo;src:url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/l?subset_id=1&fvd=i5&v=3) format("woff2"),url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/d?subset_id=1&fvd=i5&v=3) format("woff"),url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/a?subset_id=1&fvd=i5&v=3) format("opentype");font-weight:500;font-style:italic;font-display:auto;}@font-face{font-family:museo;src:url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/l?subset_id=1&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/d?subset_id=1&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/a?subset_id=1&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/l?subset_id=1&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/d?subset_id=1&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/a?subset_id=1&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/l?subset_id=1&fvd=i3&v=3) format("woff2"),url(https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/d?subset_id=1&fvd=i3&v=3) format("woff"),url(https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/a?subset_id=1&fvd=i3&v=3) format("opentype");font-weight:300;font-style:italic;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/a28b50/00000000000000000000e803/27/l?subset_id=1&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/a28b50/00000000000000000000e803/27/d?subset_id=1&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/a28b50/00000000000000000000e803/27/a?subset_id=1&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/l?subset_id=1&fvd=i5&v=3) format("woff2"),url(https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/d?subset_id=1&fvd=i5&v=3) format("woff"),url(https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/a?subset_id=1&fvd=i5&v=3) format("opentype");font-weight:500;font-style:italic;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/l?subset_id=1&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/d?subset_id=1&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/a?subset_id=1&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/2841b6/00000000000000000000e806/27/l?subset_id=1&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/2841b6/00000000000000000000e806/27/d?subset_id=1&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/2841b6/00000000000000000000e806/27/a?subset_id=1&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-display:auto;}</style><script type="text/javascript">try { Typekit.load(); } catch (e) { }</script>
+    
+    <link href="/Content/bootstrap.min.css" rel="stylesheet">
+
+    <link href="/Content/site.min.css?~v=7t3I4c1z4mamGhMfh7Rt9J0YdLi3nlMxX3ZXqUs3-Bs1" rel="stylesheet">
+
+    
+    
+    
+    <script src="/Scripts/jquery-1.10.2.min.js"></script>
+<script src="/Scripts/jquerycookie/jquery.cookie.min.js"></script>
+
+    <!--[if lt IE 9]>
+    <script src="/Scripts/ie8/scripts-ie8.js"></script>
+
+    <script src="/Scripts/angular-1.2.28/angular.min.js"></script>
+<script src="/Scripts/angular-1.2.28/angular-sanitize.min.js"></script>
+<script src="/Scripts/ui-bootstrap-0.12.0/ui-bootstrap-custom-tpls-0.12.0.min.js"></script>
+<script src="/Scripts/angular-shims/angular-shims-placeholder.min.js"></script>
+
+    <![endif]-->
+    <!--[if gt IE 8]> <!-- -->
+    <script src="/Scripts/angular-1.5.8/angular.min.js"></script>
+<script src="/Scripts/angular-1.5.8/angular-sanitize.min.js"></script>
+<script src="/Scripts/ui-bootstrap-2.2.0/ui-bootstrap-custom-tpls-2.2.0.min.js"></script>
+<script src="/Scripts/angular-shims/angular-shims-placeholder.min.js"></script>
+
+    <!--[endif]---->
+    <script src="/Scripts/_app/app-support.min.js?~v=bz582ovHvGqhiy9Fe8Bf3RuuJuDaqTWhKSjOZMJ3YmI1"></script>
+
+    <script>
+        window.config = {
+            rootUrl: "https://accounts.bookster.ro/",
+            ngRootPath: "/Views/Login/",
+            appVersion: "4fda350b2148254bcd9e67bbdbecdc93",
+            language: "ro"
+        };
+    </script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-34737620-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-34737620-1');
+</script>
+    <script type="text/javascript">
+    window.__lo_site_id = 258758;
+
+    (function() {
+        var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
+        wa.src = 'https://d10lpsik1i8c69.cloudfront.net/w.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
+    })();
+</script>
+</head>
+<body class="clearfix">
+    
+    <div class="page-content">
+        <div class="container">
+            <div class="language-selector">
+                <div class="clearfix">
+                    <a href="?l=ro" class="active">RO</a>
+                    <a href="?l=en" class="inactive">EN</a>
+                </div>
+            </div>
+        </div>
+
+        
+
+
+<div class="container ng-scope" ng-app="LoginPage" ng-controller="AuthenticationController as ctrl">
+    <!-- ngInclude: --><div ng-include="" src="ctrl.LoginStepUrl()" class="ng-scope">
+<div class="login-page ng-scope">
+    <div class="login-container">
+        <div class="login-container-inner">
+            <h1>
+                Bine ai revenit la <b>Bookster!</b>
+            </h1>
+            <div class="text-center">                
+                Cele mai bune carti din lume te asteapta dezinfectate...
+            </div>
+            <div class="line-spacer-both"></div>
+            <form name="loginForm" class="form-horizontal ng-pristine ng-valid" novalidate="" ng-show="!ctrl.IsLoggedIn" autofill-submit="ctrl.AuthenticateUser($event)">
+                <div class="form-group">
+                    <div class="col-sm-12">
+                        <input id="username" name="username" autocomplete="username email" autofill="" class="form-control login-icon-control email-form-control ng-pristine ng-untouched ng-valid ng-empty" ng-model="ctrl.User.UserName" placeholder="Email" style="">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-sm-12">
+                        <input id="password" name="password" type="password" autocomplete="password" autofill="" class="form-control login-icon-control password-form-control ng-pristine ng-untouched ng-valid ng-empty" ng-model="ctrl.User.Password" placeholder="Parola">
+                        <div style="padding-top: 5px">
+                            <a class="action-link" ng-click="ctrl.GoToForgotPassword()">
+                                Am uitat parola
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-sm-12">
+                        <!-- ngIf: ctrl.LoginErrorText -->
+                        <input type="submit" class="btn primary-button submit-button" ng-disabled="ctrl.Loading" value="Intra in cont">
+                    </div>
+                </div>
+            </form>
+            <div ng-show="ctrl.IsLoggedIn" class="message-container ng-hide">
+                <div class="info-message">
+                    Autentificare cu succes!
+                </div>
+                <div class="info-message-sub">
+                    Experienta Bookster se incarca...                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="login-switch-register" ng-show="!ctrl.IsLoggedIn">
+        <div class="login-switch-register-inner">
+            <div class="container-fluid" style="padding: 0;">
+                <h1>
+                    Nu ai cont inca?                    
+                </h1>
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <button class="btn white-button" ng-click="ctrl.GoToActivateAccount()">
+                            Creeaza-ti contul
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div></div>
+</div>
+
+
+    </div>
+
+    
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8">
+                    <img src="/Content/img/logo-rnr.png" alt="">
+                    <div style="padding-top: 10px;">
+                        <p>
+                            <b>Bookster</b> este fabricat in Romania cu pasiune pentru educatie.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 visible-lg language-selector">
+                    <div class="clearfix">
+                        <a href="?l=en" class="inactive">EN</a>
+                        <a href="?l=ro" class="active">RO</a>
+                    </div>
+                    <div class="change-language">
+                        Change language
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+     
+        
+    <script src="/Views/Login/Login.min.js?v=4fda350b2148254bcd9e67bbdbecdc93"></script>
+
+
+
+<iframe id="lo-cs-frame" src="about:blank" aria-hidden="true" title="Lucky Orange" style="display: none !important;"></iframe></body></html>
