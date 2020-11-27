@@ -9,3 +9,10 @@
 
 2. OOP 
 - ClinicJFX
+
+
+2nd Year
+
+1st Semester
+
+1. Automation testing project in Java
