@@ -33,7 +33,7 @@ public class PersonRepository {
 
         String sql = "select * from persons";
 
-        Map<String, List<Address>> map = new HashMap<>();
+        Map<String, List<Address>> addressMap = new HashMap<>();
 
         try (Connection conn = DriverManager.getConnection(URL, USER, PASS);
              PreparedStatement ps = conn.prepareStatement(sql)) {
@@ -52,7 +52,7 @@ public class PersonRepository {
 
                     Address address = new Address(type, street, phone);
 
-                    List<Address> addressList = map.computeIfAbsent(ssn, key -> new ArrayList<>());
+                    List<Address> addressList = addressMap.computeIfAbsent(ssn, key -> new ArrayList<>());
                     addressList.add(address);
 
                     int salary = resultSet.getInt("salary");
