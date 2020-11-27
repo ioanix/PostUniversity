@@ -1,0 +1,10 @@
+<employees>
+    <employee>
+        <ssn>1231</ssn>
+        <salary>1000</salary>
+    </employee>
+    <employee>
+        <ssn>1233</ssn>
+        <salary>2000</salary>
+    </employee>
+</employees>

@@ -1,0 +1,6 @@
+<db-config>
+    <url>jdbc:postgresql://localhost:5432/employees_management</url>
+    <user>postgres</user>
+    <password>enter123</password>
+</db-config>
+

@@ -1,0 +1,58 @@
+<persons>
+    <person>
+        <ssn>1231</ssn>
+        <name>p1</name>
+        <addresses>
+            <address type="home">
+                <street>str11</street>
+                <phone>0744123451</phone>
+            </address>
+            <address type="work">
+                <street>str12</street>
+                <phone>0745123451</phone>
+            </address>
+        </addresses>
+    </person>
+    <person>
+        <ssn>1232</ssn>
+        <name>p2</name>
+        <addresses>
+            <address type="home">
+                <street>str21</street>
+                <phone>0744123452</phone>
+            </address>
+            <address type="work">
+                <street>str22</street>
+                <phone>0745123452</phone>
+            </address>
+        </addresses>
+    </person>
+    <person>
+        <ssn>1233</ssn>
+        <name>p3</name>
+        <addresses>
+            <address type="home">
+                <street>str31</street>
+                <phone>0744123453</phone>
+            </address>
+            <address type="work">
+                <street>str32</street>
+                <phone>0745123453</phone>
+            </address>
+        </addresses>
+    </person>
+    <person>
+        <ssn>1234</ssn>
+        <name>p4</name>
+        <addresses>
+            <address type="home">
+                <street>str41</street>
+                <phone>0744123454</phone>
+            </address>
+            <address type="work">
+                <street>str42</street>
+                <phone>0745123454</phone>
+            </address>
+        </addresses>
+    </person>
+</persons>
