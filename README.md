@@ -16,3 +16,5 @@
 1st Semester
 
 1. Automation testing project in Java
+
+2. Exam project Java
