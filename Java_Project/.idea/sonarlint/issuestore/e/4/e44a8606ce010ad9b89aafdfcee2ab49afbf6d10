@@ -1,0 +1,40 @@
+
+R
+java:S1481'"7Remove this unused "saleFileRepository" local variable.(³ûÃıÿÿÿÿ
+Q
+java:S1481&";Remove this unused "customerFileRepository" local variable.(´ÉÊ×
+U
+java:S1481*":Remove this unused "customerXmlRepository" local variable.(Ë¼¸¢ùÿÿÿÿ
+Q
+java:S1481)"6Remove this unused "bikeXmlRepository" local variable.(½Å‰¬ûÿÿÿÿ
+`
+java:S1854)"ERemove this useless assignment to local variable "bikeXmlRepository".(½Å‰¬ûÿÿÿÿ
+]
+java:S1854!"BRemove this useless assignment to local variable "bikeRepository".(ŞÙ…•ùÿÿÿÿ
+I
+java:S1481#"3Remove this unused "saleRepository" local variable.(•ÛğÑ
+X
+java:S1854#"BRemove this useless assignment to local variable "saleRepository".(•ÛğÑ
+`
+java:S1854+"ERemove this useless assignment to local variable "saleXmlRepository".(ù”¾×ùÿÿÿÿ
+a
+java:S1854'"FRemove this useless assignment to local variable "saleFileRepository".(³ûÃıÿÿÿÿ
+a
+java:S1854%"FRemove this useless assignment to local variable "bikeFileRepository".(ß£‚„ıÿÿÿÿ
+\
+java:S1854""FRemove this useless assignment to local variable "customerRepository".(ÿÊÄ
+d
+java:S1854*"IRemove this useless assignment to local variable "customerXmlRepository".(Ë¼¸¢ùÿÿÿÿ
+V	java:S1255"<This block of commented-out lines of code should be removed.(–óŞ¹ùÿÿÿÿ
+`
+java:S1854&"JRemove this useless assignment to local variable "customerFileRepository".(´ÉÊ×
+Q
+java:S1481+"6Remove this unused "saleXmlRepository" local variable.(ù”¾×ùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+R
+java:S1481%"7Remove this unused "bikeFileRepository" local variable.(ß£‚„ıÿÿÿÿ
+N
+java:S1481!"3Remove this unused "bikeRepository" local variable.(ŞÙ…•ùÿÿÿÿ
+M
+java:S1481""7Remove this unused "customerRepository" local variable.(ÿÊÄ

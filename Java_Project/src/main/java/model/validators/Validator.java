@@ -1,8 +1,15 @@
 package model.validators;
 
-public interface Validator<T> {
+public abstract class Validator<T> {
 
-     void validate(T entity);
-     void validateList(Iterable<T> list);
+     public void validate(T entity) {
 
+          Error<T> error = createError();
+          error.setEntity(entity);
+          error.showErrorMessages();
+     }
+
+     protected abstract Error<T> createError();
+
+     public abstract void validateList(Iterable<T> list);
 }

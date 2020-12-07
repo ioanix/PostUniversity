@@ -30,17 +30,17 @@ public class Main {
         Validator<Customer> customerValidator = new CustomerValidator();
         Validator<Sale> saleValidator = new SaleValidator();
 
-        PagingAndSortingRepository<Long, Bike> bikeRepository = new InMemoryRepository<>(bikeValidator);
-        PagingAndSortingRepository<Long, Customer> customerRepository = new InMemoryRepository<>(customerValidator);
-        PagingAndSortingRepository<Long, Sale> saleRepository = new InMemoryRepository<>(saleValidator);
-
-        BikeFileRepository bikeFileRepository = new BikeFileRepository(bikeValidator, "data/bikes.csv");
-        CustomerFileRepository customerFileRepository = new CustomerFileRepository(customerValidator, "data/customers.csv");
-        SaleFileRepository saleFileRepository = new SaleFileRepository(saleValidator, "data/sales.csv");
-
-        XmlRepository<Long, Bike> bikeXmlRepository = new BikeXmlRepository(bikeValidator, "data/bikeShop_bike.xml");
-        XmlRepository<Long, Customer> customerXmlRepository = new CustomerXmlRepository(customerValidator, "data/bikeShop_customer.xml");
-        XmlRepository<Long, Sale> saleXmlRepository = new SaleXmlRepository(saleValidator, "data/bikeShop_sale.xml");
+//        PagingAndSortingRepository<Long, Bike> bikeRepository = new InMemoryRepository<>(bikeValidator);
+//        PagingAndSortingRepository<Long, Customer> customerRepository = new InMemoryRepository<>(customerValidator);
+//        PagingAndSortingRepository<Long, Sale> saleRepository = new InMemoryRepository<>(saleValidator);
+//
+//        BikeFileRepository bikeFileRepository = new BikeFileRepository(bikeValidator, "data/bikes.csv");
+//        CustomerFileRepository customerFileRepository = new CustomerFileRepository(customerValidator, "data/customers.csv");
+//        SaleFileRepository saleFileRepository = new SaleFileRepository(saleValidator, "data/sales.csv");
+//
+//        XmlRepository<Long, Bike> bikeXmlRepository = new BikeXmlRepository(bikeValidator, "data/bikeShop_bike.xml");
+//        XmlRepository<Long, Customer> customerXmlRepository = new CustomerXmlRepository(customerValidator, "data/bikeShop_customer.xml");
+//        XmlRepository<Long, Sale> saleXmlRepository = new SaleXmlRepository(saleValidator, "data/bikeShop_sale.xml");
 
         PagingAndSortingRepository<Long, Bike> bikeDbRepository = new BikeDbRepository(bikeValidator);
         PagingAndSortingRepository<Long, Customer> customerDbRepository = new CustomerDbRepository(customerValidator);
